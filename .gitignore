@@ -1,1 +1,5 @@
+# Ignore all .txt files
 *.txt
+
+# But don't ignore .txt files that start with ex_
+!ex_*.txt
