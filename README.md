@@ -7,12 +7,12 @@ This Python script parses sequence files in a specified input directory and writ
 You can run the script from the command line as follows:
 
 ```bash
-python parser.py input_folder_path output_folder_path
+python unaliner.py input_folder_path output_folder_path
 
 ```
 
 ```powershell
-python .\parser.py .\input_folder_path .\output_folder_path
+python .\unaliner.py .\input_folder_path .\output_folder_path
 
 ```
 
@@ -21,12 +21,12 @@ Replace input_folder_path and output_folder_path with the paths to your actual i
 If you want to run the script without overwriting existing files, you can use the --not_overwrite flag:
 
 ```bash
-python parser.py input_folder_path output_folder_path --not_overwrite
+python unaliner.py input_folder_path output_folder_path --not_overwrite
 
 ```
 
 ```powershell
-python .\parser.py .\input_folder_path .\output_folder_path --not_overwrite
+python .\unaliner.py .\input_folder_path .\output_folder_path --not_overwrite
 
 ```
 
