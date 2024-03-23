@@ -11,22 +11,12 @@ python unaliner.py input_folder_path output_folder_path
 
 ```
 
-```powershell
-python .\unaliner.py .\input_folder_path .\output_folder_path
-
-```
-
 Replace input_folder_path and output_folder_path with the paths to your actual input and output folders.
 
 If you want to run the script without overwriting existing files, you can use the --not_overwrite flag:
 
 ```bash
 python unaliner.py input_folder_path output_folder_path --not_overwrite
-
-```
-
-```powershell
-python .\unaliner.py .\input_folder_path .\output_folder_path --not_overwrite
 
 ```
 
