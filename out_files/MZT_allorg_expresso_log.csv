@@ -1,0 +1,16 @@
+seq_lengh_AA,new_name,old_name
+57,tEt-i1-MZT,TRINITY_DN37092_c0_g1_i1_763   _P_ 6m33B _P_ 6m33B
+60,tMi-i1-MZT,gb|GFGZ01031394.1|_160   _P_ 6m33B _P_ 6m33B
+90,tPr-i1-MZT,gb|GFGY01019371.1|_796   _P_ 6m33B _P_ 6m33B
+98,tRv-i1-MZT,RvY_153421_198
+82,sp|Q08AG7|MZT1_HUMAN,sp|Q08AG7|MZT1_HUMAN  Mitotic-spindle organizing protein 1 OS=Homo sapiens OX=9606 GN=MZT1 PE=1 SV=2 _P_ 6m33B
+78,sp|Q8BUR9|MZT1_MOUSE,sp|Q8BUR9|MZT1_MOUSE  Mitotic-spindle organizing protein 1 OS=Mus musculus OX=10090 GN=Mzt1 PE=1 SV=1 _P_ 6m33B
+82,tr|Q6ILY6|Q6ILY6_DROME,tr|Q6ILY6|Q6ILY6_DROME  GEO02508p1 OS=Drosophila melanogaster OX=7227 GN=Mzt1 PE=2 SV=1 _P_ 6l82B
+72,NP_001157822.1,NP_001157822.1  mitotic-spindle organizing protein 1 [Gallus gallus] _P_ 6m33B
+72,sp|Q0VFD6|MZT1_XENTR,sp|Q0VFD6|MZT1_XENTR  Mitotic-spindle organizing protein 1 OS=Xenopus tropicalis OX=8364 GN=mzt1 PE=3 SV=1 _P_ 6m33B
+75,sp|P0C8Y1|MZT1_DANRE,sp|P0C8Y1|MZT1_DANRE  Mitotic-spindle organizing protein 1 OS=Danio rerio OX=7955 GN=mzt1 PE=3 SV=1 _P_ 6m33B
+158,sp|Q6P582|MZT2A_HUMAN,sp|Q6P582|MZT2A_HUMAN  Mitotic-spindle organizing protein 2A OS=Homo sapiens OX=9606 GN=MZT2A PE=1 SV=2
+158,sp|Q6NZ67|MZT2B_HUMAN,sp|Q6NZ67|MZT2B_HUMAN  Mitotic-spindle organizing protein 2B OS=Homo sapiens OX=9606 GN=MZT2B PE=1 SV=1
+159,sp|Q9CQ25|MZT2_MOUSE,sp|Q9CQ25|MZT2_MOUSE  Mitotic-spindle organizing protein 2 OS=Mus musculus OX=10090 GN=Mzt2 PE=1 SV=1
+170,sp|Q28DB1|MZT2B_XENTR,sp|Q28DB1|MZT2B_XENTR  Mitotic-spindle organizing protein 2B OS=Xenopus tropicalis OX=8364 GN=mzt2b PE=1 SV=1
+153,sp|Q6DC17|MZT2_DANRE,sp|Q6DC17|MZT2_DANRE  Mitotic-spindle organizing protein 2 OS=Danio rerio OX=7955 GN=mzt2 PE=2 SV=1
