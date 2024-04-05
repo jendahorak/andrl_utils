@@ -4,7 +4,7 @@ from Bio import SeqIO
 
 def output_log_table(filename: str, old_names: list, output_filename: str) -> None:
     with open(output_filename, "w", newline="") as csvfile:
-        fieldnames = ["seq_lengh_AA", "new_name", "old_name"]
+        fieldnames = ["old_name", "new_name", "seq_lengh_AA"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
         writer.writeheader()
@@ -107,32 +107,24 @@ def get_old_names(content: list) -> list:
 
 def parse(input_folder: str, output_folder: str, overwrite: bool) -> None:
     for filename in os.listdir(input_folder):
-        output_filename = filename.split(".")[0] + "_renamed.txt"
+        base_filename = filename.split(".")[0]
+        output_filename = base_filename + "_renamed.txt"
         filename_path = os.path.join(input_folder, filename)
         output_filename_path = os.path.join(output_folder, output_filename)
 
-        if not overwrite and os.path.exists(
-            os.path.join(output_folder, output_filename)
-        ):
+        if not overwrite and os.path.exists(output_filename_path):
             print(f"File {output_filename} already exists, skipping.")
             continue
 
-        with open(os.path.join(input_folder, filename), "r") as f:
-            content = f.read()
-            content = content.splitlines()
+        with open(filename_path, "r") as f:
+            content = f.read().splitlines()
             old_names = get_old_names(content)
 
             parsed_lines = process_lines(content, get_protein_name(filename))
             write(output_folder, output_filename, parsed_lines)
 
-        log_table_name = os.path.join(
-            output_folder, filename.split(".")[0] + "_log.csv"
-        )
-        output_log_table(
-            output_filename_path,
-            old_names,
-            log_table_name,
-        )
+        log_table_name = os.path.join(output_folder, base_filename + "_log.csv")
+        output_log_table(output_filename_path, old_names, log_table_name)
 
     return None
 
