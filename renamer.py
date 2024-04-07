@@ -2,7 +2,25 @@ import argparse, os, csv
 from Bio import SeqIO
 
 
-def output_log_table(filename: str, old_names: list, output_filename: str) -> None:
+def convert_to_fasta(input_folder):
+
+    for filename in os.listdir(input_folder):
+        base_filename = filename.split(".")[0]
+        format_trail = filename.split(".")[1]
+        filename_path = os.path.join(input_folder, filename)
+        converted_fasta_file_name_path = os.path.join(input_folder, base_filename + "_converted.fasta_aln") 
+
+        if format_trail == 'clustal_aln':
+            records = SeqIO.parse(filename_path, "clustal")
+            count = SeqIO.write(records, converted_fasta_file_name_path, "fasta")
+            print("Converted %i records" % count)
+        else:
+            print('Already fasta_aln file.')
+
+        return None
+
+
+def output_log_table(filename: str, old_names: list, output_filename: str, type: str) -> None:
     with open(output_filename, "w", newline="") as csvfile:
         fieldnames = ["old_name", "new_name", "seq_lengh_AA"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -105,9 +123,12 @@ def get_old_names(content: list) -> list:
     return old_names
 
 
+
 def parse(input_folder: str, output_folder: str, overwrite: bool) -> None:
+
     for filename in os.listdir(input_folder):
         base_filename = filename.split(".")[0]
+        format_trail = filename.split(".")[1]
         output_filename = base_filename + "_renamed.txt"
         filename_path = os.path.join(input_folder, filename)
         output_filename_path = os.path.join(output_folder, output_filename)
@@ -149,7 +170,8 @@ def main() -> None:
             return
 
     # make parse and write separate file and import it here
-    parse(args.input_folder, args.output_folder, args.not_overwrite)
+    convert_to_fasta(args.input_folder)
+    # parse(args.input_folder, args.output_folder, args.not_overwrite)
 
 
 if __name__ == "__main__":
