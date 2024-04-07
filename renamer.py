@@ -19,7 +19,7 @@ def convert_to_fasta(input_folder):
         return None
 
 
-def output_log_table(filename: str, old_names: list, output_filename: str, type: str) -> None:
+def output_log_table(filename: str, old_names: list, output_filename: str) -> None:
     with open(output_filename, "w", newline="") as csvfile:
         fieldnames = ["old_name", "new_name", "seq_lengh_AA"]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
