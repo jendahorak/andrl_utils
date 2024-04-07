@@ -1,0 +1,2319 @@
+CLUSTAL FORMAT for T-COFFEE Version_13.45.65.6aa3132e [http://www.tcoffee.org] [MODE: psicoffee ], CPU=3.95 sec, SCORE=618, Nseq=17, Len=6065 
+
+RvY_111121_11827                    MSTQE----LYS-KGTQVWMPSEEAVWQLGRLVDAYVPGQT---------
+TRINITY_DN46711_c0_g1_i1_9167       MDAN----FTLS-NRQ----------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       MIRR----PPRS-TRS----------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       MIRR----PPRS-TRS----------------------------------
+Unigene8511_Echiniscoides_74852     MKRF----HNDQ-CV-I-----------ISG-------------------
+BV898_00214.p01_11821               MTTQE----LYT-KGTSVWLPSDETVWQLGTLVDDFAVGNT---------
+Unigene4338_Richtersius_51792       MTTQE----LYS-KGTPVWVPSEETVWQMATLATSYAG-EA---------
+gb|GFGY01000302.1|_71810            MTTQE----LYS-KGTPVWVPSEETVWQMATLLASYQSGDA---------
+TRINITY_DN52993_c0_g2_i6_21431      MADLDNLLLLYR-SGADVWCEHAEQVWLPANIVKIEGLPALLGTSPAHDA
+CL2581.Contig1_Echiniscoides_21768  MEYK----NAYL-KGSRIWCRDKENIWTKAIIKEIKWKDENSNN---VAC
+Unigene11975_Echiniscoides_92010    MTTD----VVVQ-SMH--W--------QQDGFAPDEMDGGN--SSARLFE
+sp|Q8IZT6|ASPM_HUMAN                MANR----RVGR-GCWE-----------VSPTERRPP-AGL---------
+sp|Q8CJ27|ASPM_MOUSE                MATM----QAAS-CPEE-------------------R-GRR---------
+sp|Q9VC45|ASP_DROME                 MSAF----EITV-TPSR---------------------------------
+NP_492467.1                         MDNN----VEDK-KE-----------------------------------
+XP_025009015.2                      MAAS----SFPEAAVWE-----------LSPAVKPRRRRWA---------
+XP_005161794.1                      MSFK----VAKS-ECLD-----------FSPPLD--S-HCS---------
+                                    *                                                 
+
+RvY_111121_11827                    TTLDVRLESDGTVKTVKIAEETDLPPLRNPEIFRGRSDLTQLSYLHEPAV
+TRINITY_DN46711_c0_g1_i1_9167       -------------------NKF---------------TPEK---------
+TRINITY_DN46711_c0_g1_i3_1333       -------------------EFY---------------SPTIIDFLTHSTV
+TRINITY_DN46711_c0_g1_i2_1556       -------------------EFY---------------SPTIIDFLTHSTV
+Unigene8511_Echiniscoides_74852     ------------------------------ESGAGKTESTK---------
+BV898_00214.p01_11821               -TLDVRV-ENGSIFTVKVANEKGFPPLRNPEIFRGLSDLTQLSYLHEPAV
+Unigene4338_Richtersius_51792       -TLDVRL-ENGTTKTVKISSEKDLPPLRNPDMFSGLSDLTQLSYLHEPAV
+gb|GFGY01000302.1|_71810            -ALDVRL-EDASTRTLKITSEKDLPPLRNPDIFSGHNDLTQLSYLHEPAV
+TRINITY_DN52993_c0_g2_i6_21431      CIITVN-RRDDEAITMNIRTKNDLPPLQNPKVLSDVKDLTELTYLHEPAI
+CL2581.Contig1_Echiniscoides_21768  DLNILI-VDSNETKEYCIKSKDEMPLLQNPAILSGCRNLTELSYLHEASV
+Unigene11975_Echiniscoides_92010    RSRIRALAEERERVQKKTFT------------------------------
+sp|Q8IZT6|ASPM_HUMAN                RGPAAE-EEASSPPVLSLSHFCRSPFLCFGDVLLGASRTLSLA-------
+sp|Q8CJ27|ASPM_MOUSE                ARPDPE-AGDPSPPVLLLSHFCGVPFLCFGDVRVGTSRTRSLV-------
+sp|Q9VC45|ASP_DROME                 LKQKKR-AEGREPAVVVMAPFSAKAIVQFEDVPITKTARRQVR-------
+NP_492467.1                         ------------------------------------AMLKRLANRHEKRL
+XP_025009015.2                      VPRPED-DSDEEPAVLVLSHFSRPPYLSFGTLRVGASRTRLLG-------
+XP_005161794.1                      RDKSGK-ENSSSIPVLSLLQFSRAPFVSFGTIKLGSSKSLPLR-------
+                                                                                      
+
+RvY_111121_11827                    LHNLRVRFVEYQSIYTYCGIVLVAINPYNEL--PIYDQSTMETYRGCAMG
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       IFEFLLQFLSVDY-------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       IFEFLLQFLSVDY-------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               LHNLRVRFAEYKTIYTYCGIVLVAINPYQEM--NIYDNGTMETYRGCAMG
+Unigene4338_Richtersius_51792       LHNLKVRFTEQSTIYTYCGIVLVAINPYESL--PIYDQNNMETYRGSAMG
+gb|GFGY01000302.1|_71810            LHNLQVRFTQHNSIYTYCGIVLVAINPYQEL--FIYDQNTMETYRGSAMG
+TRINITY_DN52993_c0_g2_i6_21431      LENLRHRYVDNRDFYSYCGIILIAINPYCSI-RQMYDNAAILSYRGQSLA
+CL2581.Contig1_Echiniscoides_21768  LNNLKVRFN-SHNIYTYCGSMLVAINPYSDI--DLYGDESILSFRGQSLH
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                -----------------------LDNPNEEV-AEVKISHFPAAD------
+sp|Q8CJ27|ASPM_MOUSE                -----------------------LHNPHEEP-LQVELSLLRAAG------
+sp|Q9VC45|ASP_DROME                 -----------------------VLNPSDDD-IEVKVMKAIREE------
+NP_492467.1                         LDQVKSNTKKID--------------------------------------
+XP_025009015.2                      -----------------------IDNPNAEH-AEVVVDRFPASA------
+XP_005161794.1                      -----------------------IENPTDDATATVIVDKI-SAS------
+                                                                                      
+
+RvY_111121_11827                    ELDPHIFAIAEEAYTKM---------------------------EREDK-
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     -------------------------------------LILQYV-------
+BV898_00214.p01_11821               ELDPHIFAIAEEAFTKM---------------------------EREDR-
+Unigene4338_Richtersius_51792       ELDPHIFAIAEEAHAKM---------------------------ERENK-
+gb|GFGY01000302.1|_71810            ELDPHIFAIAEEAYTKM---------------------------EREDR-
+TRINITY_DN52993_c0_g2_i6_21431      NVDPHVFGIAEAALVDL---------------------------ERENR-
+CL2581.Contig1_Echiniscoides_21768  DTSPHVYAIAENAIIQL---------------------------DQQQC-
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                ----LGFSVSQRCFVLQPKEKIVISVNWTPLKEGRVREIMTFLVNDVLKH
+sp|Q8CJ27|ASPM_MOUSE                ----QGFSVAPNRCELKPKEKLTISVTWTPLREGGVREIVTFLVNDFLKH
+sp|Q9VC45|ASP_DROME                 ----HNLSLEWMEHTVPARDEVSMELVWSPVLEVACKETLQLIDNRNFRK
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      ----RGFSLERRRFAVESGQRIFVYVTWTPSEEGKVRELVTFVVNGIVKH
+XP_005161794.1                      ----KGFSVDQMSFTIQPEDSIILTVTWTPVEEGGIRELLCFIANGIVKH
+                                                                                      
+
+RvY_111121_11827                    DQAIIVSG------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               DQSIIVSG------------------------------------------
+Unigene4338_Richtersius_51792       DQAIIVSG------------------------------------------
+gb|GFGY01000302.1|_71810            DQSIIVSG------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      SQTVVVSG------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  NQSIIVSG------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                QAI-LLGNAEEQKKKKRSLWDTIKKKKISASTSH---NRRVSNIQNVNKT
+sp|Q8CJ27|ASPM_MOUSE                QAI-LLGNAEEPKKKKRSLWNTSKKIPAS--SKH---TKRTSKNQHFNES
+sp|Q9VC45|ASP_DROME                 EVMIILKSKSNQPVKNPRKFPTVGKTLQLKSPTGA--GKTMK--SVVSAA
+NP_492467.1                         -------------------------------------------LRAT---
+XP_025009015.2                      QAV-LLGVAEQPLKKKKSLWDTIKKKNSSETSVSRKINKRNSKVKNVNKT
+XP_005161794.1                      QAI-LLGKAETTKKKKKTLWDSIKSKKGVPAPSKEK-KVSTMPIKSVNKT
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                FSVSQKV----DRVRSPLQACENLAMNEG---------------------
+sp|Q8CJ27|ASPM_MOUSE                FTISQK-----DRIRSPLQPCENLAMSEC---------------------
+sp|Q9VC45|ASP_DROME                 VQQKKR-----MSAAAAPPSKQTWRVTAPSRPAAWAHPPPQAPLVEKNVY
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      FQVSQKA----DRLRSPLQSCENQNAMQN---------------------
+XP_005161794.1                      FHVSRQSQYRKDRTSNPLSPLNQNGSRRV---------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                -------------------GPPTENNSLILEENKIPISPISPAFN-----
+sp|Q8CJ27|ASPM_MOUSE                -------------------SSP--------TENKVPTPSISPIR------
+sp|Q9VC45|ASP_DROME                 KTPQEEPVYISPQPRSLKEN-------------LSPMTP--------GNL
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      -------------------STSPVNESLVGSENKLPISPIAPVLE-----
+XP_005161794.1                      -------------------NTP-------------SSTPEMPKPAFITET
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                --ECHGATCLPLSVRRSTTYSSLHASENRELLNVHSANVS-KVSFNEKAV
+sp|Q8CJ27|ASPM_MOUSE                --ECQSETCLPLFLRESTAYSSLHESENTQNLKVQDASISQTFDFNEEVA
+sp|Q9VC45|ASP_DROME                 LDVIDNLRFTPLTETRG---------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --ELRTTACTPISMRRSTTFSDIAAAVNEGLLPEMDSRNF-NKSVD----
+XP_005161794.1                      FDNVHLQKDSPVVV--------LVPAER----------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                TETSFNSVNVN----------GQRGENSKLSLTPNCSSTLNITQSQIHFL
+sp|Q8CJ27|ASPM_MOUSE                NETFINPISVC----------HQSEGDRKLTLAPNCSSPLNSTQTQIHFL
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      DHNELKSGSAYGSSGLGKPPISNDEVILNCTLSPVCT-------------
+XP_005161794.1                      ---LLDTPGKKDAPSSRQIECREITRVLNKTLSPASTPERFRNPLSSGFQ
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                SPDSFVNNSHGANNELELVTCLSSDMFMKDNSQPVHLESTIAHEIYQKIL
+sp|Q8CJ27|ASPM_MOUSE                SPDSFVNNRYTSDNDLKSMKNVLSDTFRKDPAESVCLESQTVHEVCQTIL
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      -----------------------------------PEHSSVPFLSTRRFL
+XP_005161794.1                      SPLPVIGQ-FVQDKSREPEKLSLSVKDALDVIGSDLSHTVSPPNACSSFD
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                SPDSFIKDN----------------------YGLNQDLESESVNPILSPN
+sp|Q8CJ27|ASPM_MOUSE                SPDSFLNDN----------------------YGLKKGLNFKSVNPVLSPT
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      SPDSFVNDS----------------------YQVDGDIVEPP-VPILSPD
+XP_005161794.1                      FSDSLESDKPDPGASFRARRVISPPVETADPRLTFCVKPNKAIGIASNQD
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                QFLKDNMAYMCTSQQTCKVPLSNENSQVPQSPED----WRKSEVSPRIPE
+sp|Q8CJ27|ASPM_MOUSE                QFVKDSMGHVGQQTGKSNEAS-----------QD----WRINEGLAYTPE
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      QFVKDMQLYMQLKTPKPEAALISSTTETYVMKECVPSKWKKN-GDRQTKT
+XP_005161794.1                      EFRLKA---LPFSTATVT--------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                CQGSKSPKAIFE--ELVEMKSNYYSFIKQNNPKFSAVQD-ISSHSHNKQP
+sp|Q8CJ27|ASPM_MOUSE                CQHAQTPSSRSEKQNPVEVKPHTYDF-TKQKPKISEFQD-AFCHQSKQPH
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      QVHVERVLNEAFEVHSIDSQVLHYNKSKENLFSCPSKEEFQTCSSQIEQP
+XP_005161794.1                      -----------------------------------KSIK-VDDTHVPDDP
+                                                                                      
+
+RvY_111121_11827                    --------ESGAGKTVSAKFAMRYFAAVNGST------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       ----------------ATMAATQHMSRSTSRS------------------
+TRINITY_DN46711_c0_g1_i2_1556       ----------------ATMAATQHMSRSTSRS------------------
+Unigene8511_Echiniscoides_74852     -------------------------AAISGQ-------------------
+BV898_00214.p01_11821               --------ESGAGKTVSAKYVMRYVAEAKGSTT-----------------
+Unigene4338_Richtersius_51792       --------ESGAGKTVSARYAMRYFASASGSS------------------
+gb|GFGY01000302.1|_71810            --------ESGAGKTVSAKYAMRYFAAVNGST------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------ESGAGKTISAKYVMGYLAEVSRSEASTSMSTSMSGAKEKTAG
+CL2581.Contig1_Echiniscoides_21768  --------ESGAGKTISAKHTMRYLTSVSSKKSHQNSSI-----------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                KRRPILSAT----------------VTKRKA-------------------
+sp|Q8CJ27|ASPM_MOUSE                KRRPILSAT----------------VTKRKP-------------------
+sp|Q9VC45|ASP_DROME                 -----------------------------KG-------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      KKRPVLSAT----------------VIKNKP-------------------
+XP_005161794.1                      KTFPVNSAT----------------VVKSKA-------------------
+                                                                                      
+
+RvY_111121_11827                    -TETN--------------------------------V-ERRVLATNPIM
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       -ESPT--------------------------------A-RSQFLAANRAR
+TRINITY_DN46711_c0_g1_i2_1556       -ESPT--------------------------------A-RSQFLAANRAR
+Unigene8511_Echiniscoides_74852     --HSM---------------------------------IESQILEANPIL
+BV898_00214.p01_11821               -NEHN--------------------------------V-EKRVLATNPIM
+Unigene4338_Richtersius_51792       -TETN--------------------------------V-EKRVLATNPIM
+gb|GFGY01000302.1|_71810            -TETN--------------------------------V-EKRVLATNPIM
+TRINITY_DN52993_c0_g2_i6_21431      PQSTS--------------------------------T-EARVLATEPIF
+CL2581.Contig1_Echiniscoides_21768  -LENS--------------------------------I-ESRVIATNPIL
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                --TCTRENQTEINKPKAKRCLNSAVGEHEKVI--NNQKEKEDFHSYLPII
+sp|Q8CJ27|ASPM_MOUSE                --TNAREKLPEINKPDAKRCLEGLVGERGKEV--GSLR-EKGFHSSLPVV
+sp|Q9VC45|ASP_DROME                 --QAT---------------------------------IFPDNLAAWPTP
+NP_492467.1                         ---------------------------------------ERAFLESSPT-
+XP_025009015.2                      --NAEERKKMEMLQPKSKKCLDSAIMTCENTV--PLYT-KTEISEHLPVI
+XP_005161794.1                      --DASVESPGLRKKKTSRRRLLEKTLELSEPSNAESNTSSPDSFSALPVI
+                                                                                      
+
+RvY_111121_11827                    EAI-----------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       SRD-----------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       SRD-----------------------------------------------
+Unigene8511_Echiniscoides_74852     EAF-----------------------------------------------
+BV898_00214.p01_11821               EAI-----------------------------------------------
+Unigene4338_Richtersius_51792       EAI-----------------------------------------------
+gb|GFGY01000302.1|_71810            EAI-----------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      EAF-----------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  EAF-----------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                DPILSKS-------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                EPGVSKA-------------------------------------------
+sp|Q9VC45|ASP_DROME                 TLK-----------------------------------------------
+NP_492467.1                         -------------------------------SMNMRTPLNPSISSSVS--
+XP_025009015.2                      GPVSAGN-------------------------------------------
+XP_005161794.1                      NSDSSPDLPLESKICPVAKKKPTLNLSPHDQLLSSISPIRPQVFPSVSNS
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                ------------------KSYKNEVTPSSTTASVARKRKSDGSMEDANVR
+sp|Q8CJ27|ASPM_MOUSE                ------------------LSYRDEVTP--ATVVVARKRKSHGTVGDANGK
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      ------------------KCPSDKVSSSTESTSLCRKRKNEVYMEKN--R
+XP_005161794.1                      PSSSLELSASHFSEKVKPNLLENQFPVQSRTLVQSKKRKSDEFLRGHSED
+                                                                                      
+
+RvY_111121_11827                    ------------------------------------------------GN
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       ------------------------------------------------GH
+TRINITY_DN46711_c0_g1_i2_1556       ------------------------------------------------GH
+Unigene8511_Echiniscoides_74852     ------------------------------------------------GN
+BV898_00214.p01_11821               ------------------------------------------------GN
+Unigene4338_Richtersius_51792       ------------------------------------------------GN
+gb|GFGY01000302.1|_71810            ------------------------------------------------GN
+TRINITY_DN52993_c0_g2_i6_21431      ------------------------------------------------GN
+CL2581.Contig1_Echiniscoides_21768  ------------------------------------------------GN
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                VAITEHTEVREIKRIHFSPSEPKTSAVKKTKNVTTPI-------SKRISN
+sp|Q8CJ27|ASPM_MOUSE                VAAEEWMDMCEVKRIHFSPLESTPSTVARTTKKEGHT-------SKRISS
+sp|Q9VC45|ASP_DROME                 ------------------------------------------------GN
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      VLGPVHVEEVERKRALTSSVDNKTHTT------VRPS-------AFKHTT
+XP_005161794.1                      KSNIQAKKCRAPAQATEKPSQERTLTSRSTSGPQRKAVAPPSSRKFTRFP
+                                                                                      
+
+RvY_111121_11827                    AKTTRNDNSSR---------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       AATAMG--------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       AATAMG--------------------------------------------
+Unigene8511_Echiniscoides_74852     AKTIRNDNSSR---------------------------------------
+BV898_00214.p01_11821               AKTTRNDNSSR---------------------------------------
+Unigene4338_Richtersius_51792       AKTTRNDNSSR---------------------------------------
+gb|GFGY01000302.1|_71810            AKTTRNDNSSR---------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      AKTVRNNNSSR---------------------------------------
+CL2581.Contig1_Echiniscoides_21768  AKTVRNDNSSR---------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 VKSCANDMRPRRITPDDLEDQPATNKTFDVKHSETINISLDTLDCSRIDG
+NP_492467.1                         DSP-----------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 QPHTPLNKTTTIVHATHTRALACIHEEEGPSPPRTPTKSAIHDLKRDIKL
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 VGSPLRKYSESMKDLSLLSPQTKYAIQGSMPNLNEMKIRSIEQNRYYQEQ
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 QIQIKAKDLNSSSSSEASLAGQQEFLFNHSEILAQSSRFNLHEVGRKSVK
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 GSPVKNPHKRRSHELSFSDAPSNESLYRNETVAISPPKKQRVEDTTLPRS
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                ---------------------------REKLN-LKKKTDLSIFRTPISKT
+sp|Q8CJ27|ASPM_MOUSE                ---------------------------LERSG-LKKKMDSSILKTPLSKT
+sp|Q9VC45|ASP_DROME                 AAPANASARSSSAHAWPHAQSKKFKLAQTMS--LMK-KPATPRKV-RDTS
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      ---------------------------RERMG-QNRKAGSSLQKA-SKTV
+XP_005161794.1                      ---------------------------PKKISPKTAQKDARSVKS-ANSS
+                                                                                      
+
+RvY_111121_11827                    ------------------------------------------FGKFIEID
+TRINITY_DN46711_c0_g1_i1_9167       -------------------------------------THDRLAT------
+TRINITY_DN46711_c0_g1_i3_1333       -----------------------------------IKDDDQRWV------
+TRINITY_DN46711_c0_g1_i2_1556       -----------------------------------IKDDDQRWV------
+Unigene8511_Echiniscoides_74852     ------------------------------------------FGKYIDIH
+BV898_00214.p01_11821               ------------------------------------------FGKFIEID
+Unigene4338_Richtersius_51792       ------------------------------------------FGKFIEID
+gb|GFGY01000302.1|_71810            ------------------------------------------FGKFIEID
+TRINITY_DN52993_c0_g2_i6_21431      ------------------------------------------FGKLIRTE
+CL2581.Contig1_Echiniscoides_21768  ------------------------------------------FGKLIKIL
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                NKRTKPIIAVAQSSLTFIKPLKTDIPRHPMPFAAKNMFYDERWK------
+sp|Q8CJ27|ASPM_MOUSE                KKKRRSIVAVAQSHLTFIKPLKAAIPRHPMPFAAKNMFYDERWK------
+sp|Q9VC45|ASP_DROME                 IQPSVKLYDSELYMQTCINPDPFAATTTIDPFLASTMYLDEQAV------
+NP_492467.1                         -----------------------------------ILSYDEK-A------
+XP_025009015.2                      NRINKPIAGLAQSHLTFVKPLKTVIPRHPMPFAAKNMFYDERWK------
+XP_005161794.1                      TRKTARIVAVAQARLTFMKPTQTAIPRHPLPFAAKNMFYDERWI------
+                                                                                      
+
+RvY_111121_11827                    FDK---------QFNIIGAKMRTYLLEKSRVVFQSIEERNYHIFYQLCAA
+TRINITY_DN46711_c0_g1_i1_9167       ----------------------------------SCAARSFN--LNEQ--
+TRINITY_DN46711_c0_g1_i3_1333       ----------------------------------RIQQKTFTNWVNEQ--
+TRINITY_DN46711_c0_g1_i2_1556       ----------------------------------RIQQKTFTNWVNEQ--
+Unigene8511_Echiniscoides_74852     FNK---------DGYIEGAKIEEYLLEKSRIVSQAHNERNYHIFYCMLAG
+BV898_00214.p01_11821               FDK---------HFAITGAKMRTYLLEKSRVVFQSPDERNYHIFYQLCAA
+Unigene4338_Richtersius_51792       FDK---------HFNITGAKMRTYLLEKSRVVFQSSQERNYHIFYQLCAA
+gb|GFGY01000302.1|_71810            FDK---------RFTITGAKMRTYLLEKSRVVFQSAQERNYHMFYQLCAA
+TRINITY_DN52993_c0_g2_i6_21431      FAVSSLTSGRLTHARISGAKINTYLLEKSRVVGQASGERSFHVFYQLCAA
+CL2581.Contig1_Echiniscoides_21768  FSG---------DSSISGAAISTYLLEKSRVVHQAPDERNFHVFYFLCAA
+Unigene11975_Echiniscoides_92010    ------------------------------------------KWVNSH--
+sp|Q8IZT6|ASPM_HUMAN                ----------------------------------EKQEQGFTWWLNFILT
+sp|Q8CJ27|ASPM_MOUSE                ----------------------------------EKQEQGFTWWLNYILT
+sp|Q9VC45|ASP_DROME                 ----------------------------------DRHQADFKKWLNALVS
+NP_492467.1                         ----------------------------------NKQIIALATWCNTMME
+XP_025009015.2                      ----------------------------------EKQQRGFTWWLNFVLT
+XP_005161794.1                      ----------------------------------EKQERGFTWWMNYILT
+                                                                                      
+
+RvY_111121_11827                    AKER------------------------------PRDFTEMKLGSPD-SF
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     LS--------------------------------KKDKESLYLKSAE-TY
+BV898_00214.p01_11821               AKER------------------------------PRDYVELRLDAPE-EF
+Unigene4338_Richtersius_51792       AE----------------------------------ELPDLKLGSAD-EF
+gb|GFGY01000302.1|_71810            AR----------------------------------DLPELHLGPAE-EF
+TRINITY_DN52993_c0_g2_i6_21431      VYRATVNSENQRSVAQEAAVAAATLRVQQQQAARDAELLSLGLGSAR-NY
+CL2581.Contig1_Echiniscoides_21768  ANANKNS-------------------------NDDMGLDVLQLQDSQ-QY
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                ---------------------------------------------PD-DF
+sp|Q8CJ27|ASPM_MOUSE                ---------------------------------------------PD-DF
+sp|Q9VC45|ASP_DROME                 ---------------------------------------------IPADL
+NP_492467.1                         ---------------------------------------------LD-VS
+XP_025009015.2                      ---------------------------------------------PD-DF
+XP_005161794.1                      ---------------------------------------------PD-DF
+                                                                                      
+
+RvY_111121_11827                    -RYTSHGQNPVIPGVDDFEAFEETCQALDLLSFPQQEQHMMFCILAGILH
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     -HYLTRGNSLTCDGRDDAVEYNNIRSAMKVLQFNDDEIWNILRVLSALLS
+BV898_00214.p01_11821               -RYTNQGQNTVITGVDDFEAFQETCYALDLLSFPQEDQYIMFRILAAILH
+Unigene4338_Richtersius_51792       -RYTNLGGNIVIDGVNDYSDFFYTCEALDLLAFPKSDQNVMFRILAAVLH
+gb|GFGY01000302.1|_71810            -RYTNQGGNTKIDGVDDLEDFQATCDAFDLLSFPKNDQEIMFRILASILH
+TRINITY_DN52993_c0_g2_i6_21431      -AYLRQSGCYDNADMNDCKGFDQLRDALTTVGLRNTEQWVIFQVVAAILH
+CL2581.Contig1_Echiniscoides_21768  -LYTSQGASPTVPSIDDCKEFDNLNRAFSVLGIGQLQCLQVYKILAAILH
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                -T----------------------------------VKTNISEVNAATLL
+sp|Q8CJ27|ASPM_MOUSE                -T----------------------------------VKTNVSKVNAASLV
+sp|Q9VC45|ASP_DROME                 -D----------------------------------ADL-NNKIDVGKLF
+NP_492467.1                         EE----------------------------------MDLGESKAEACRNI
+XP_025009015.2                      -S----------------------------------VKTNTSQVNAAALL
+XP_005161794.1                      -K----------------------------------VATEVTKVNALSLT
+                                                                                      
+
+RvY_111121_11827                    LGD--IKFQ---ALD--QDSSTVLPDDE---------HLMVFARLLGINA
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     IGN--ISYK---AKQVSNLDAVDIIDQS---------YVQIAAKLLQVHP
+BV898_00214.p01_11821               LGD--IRFI---PLN--DDSSSVVDNDP---------HLSIFASLLGINA
+Unigene4338_Richtersius_51792       LGD--ISFV---ALD--QDTSAVRADDK---------HLAVFAQLLGINA
+gb|GFGY01000302.1|_71810            LGD--IRFF---SMD--QDSCTIKVDDV---------HLAIFAKLLGINA
+TRINITY_DN52993_c0_g2_i6_21431      LGN--VVIE---GD---KDSSSMKANDA---------SLVKACELLSIDA
+CL2581.Contig1_Echiniscoides_21768  LGN--VFIT---GD---KDNSNISNDDA---------SLIIAANLMKVEP
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                LGI--ENQHKISV-PRAPTKEEMSLRAY---------TARCRLNRLRRAA
+sp|Q8CJ27|ASPM_MOUSE                LGA--ESQHKISV-PKAPTKEEVSLRAY---------TASCRLNRLRRTA
+sp|Q9VC45|ASP_DROME                 NEV--R---NKEL-VVAPTKEEQSMN-Y---------LTKYRLETLRKAA
+NP_492467.1                         QKMLKKRSDT----------SEVENTQENARRRYQRIFEKNDPEVVKKKC
+XP_025009015.2                      LGE--ENHHKTSV-PKAPTKEEASLKAY---------TARRRLNKLRRDA
+XP_005161794.1                      MGN--D---KFNI-PKAPTKEEMSFRTY---------TARQRLNRLRRAA
+                                                                                      
+
+RvY_111121_11827                    SQLSIWLTKRKLVSAKEEMIKPMKLEEAEAGRDAFAKHIYARLFNWVVGH
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     KDLKDALTTRSIFASGETVISPMGVAQSYDVRDAFVKGIYGCLFKYIVKS
+BV898_00214.p01_11821               SQMSMWLTKKKLVTVKDQMTKSLRLQEAEAGRDAFAKHIYSRLFNWVVGH
+Unigene4338_Richtersius_51792       SQMSMWLTKRKLVTAREQMTKPLRLQEAEAGRDAFAKHIYSRLFNWVVAH
+gb|GFGY01000302.1|_71810            SQLSTWLTKRKLVTGREQMIKPLKLQEAEAGRDAFAKHIYARLFNWVVSH
+TRINITY_DN52993_c0_g2_i6_21431      ESLALACTRKRMLVSNEMMLKPIGVEAACASRDAMAKHMYACLFNWLVLK
+CL2581.Contig1_Echiniscoides_21768  SSIAMACTKKRISAGGTQMWVSLGREAAQASRDAMAKHIYAGVFNYLVGM
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                CRLFTSEKMVKAIKKLEIEIEARRLIVRKDRHLWKDVGERQKVLNWLLSY
+sp|Q8CJ27|ASPM_MOUSE                CSLFTSEKMVKAIKKVEIEIEVGRLLVRKDRHLWKDIGQRQKVLNWLLSY
+sp|Q9VC45|ASP_DROME                 VELFFSEQMRLPCSKVAVYVNKQALRIRSDRNLHLDVVMQRTILELLLCF
+NP_492467.1                         KQLLDDSGMDASIKDL---LSKNNVAIRKEHAVYNDIGLQTTLLHTFLSF
+XP_025009015.2                      CRLFTSETMVKAIKKLEVEIETRRLLVRRDRHLWKDVGERQKVLNWLLSY
+XP_005161794.1                      CKLFTSEAMVKAIQRLELEVEAKRLLVRKDRHLWKDIGERQKVLNWLISY
+                                                                                      
+
+RvY_111121_11827                    VNRKLAPDR---------NPHHFIGVL-------------DIYGFETFEK
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     INSAIHREN---------RKRTSIGVL-------------DIFGFENFDK
+BV898_00214.p01_11821               VNRKLIPDR---------QPHHFIGVL-------------DIYGFETFQK
+Unigene4338_Richtersius_51792       MNKKLIPER---------QPHRFIGVL-------------DIYGFETFER
+gb|GFGY01000302.1|_71810            VNKRLIPER---------QPHHFIGVL-------------DIYGFETFER
+TRINITY_DN52993_c0_g2_i6_21431      LRASLSGNSAASGDSEDAVQTLFIGIL-------------DIYGFETFQK
+CL2581.Contig1_Echiniscoides_21768  LKHTLNGDNDDNDNDGDADRKLFVGIL-------------DIYGFETFDI
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                NPLW-----------------LRIGLETTYGELISLEDNSDVTGLAMFIL
+sp|Q8CJ27|ASPM_MOUSE                NPLW-----------------LRIGLETVFGELIPLADNSDVTGLAMFIL
+sp|Q9VC45|ASP_DROME                 NPLW-----------------LRLGLEVVFGEKIQMQSNRDIVGLSTFIL
+NP_492467.1                         HPAW-----------------LKTALEAIFNTRIDAQPKHLMKKLSQFFL
+XP_025009015.2                      NPLW-----------------LRIGLETVYGELITLESNSDFIGLAVFIL
+XP_005161794.1                      NPLW-----------------LRIGLETIYGELISLESNNDVMGLAMFIL
+                                                                                      
+
+RvY_111121_11827                    NSFEQFCINYANEKLQ--QQFVIHVFKLEQEEYIREGIEW---TMIDY--
+TRINITY_DN46711_c0_g1_i1_9167       ------------------------------LKG-----------------
+TRINITY_DN46711_c0_g1_i3_1333       ------------------------------LKG-----------------
+TRINITY_DN46711_c0_g1_i2_1556       ------------------------------LKG-----------------
+Unigene8511_Echiniscoides_74852     NGFEQLCINYANENLQ--QFFVRHIFKLEQEEYDHELINW---KHIDF--
+BV898_00214.p01_11821               NSFEQFCINYANEKLQ--QQFVIHVFKLEQEEYIKEEIEW---TMIDF--
+Unigene4338_Richtersius_51792       NSFEQFCINYANEKLQ--QQFVIHVFKLEQDEYKREEIEW---TMIDF--
+gb|GFGY01000302.1|_71810            NSFEQFCINYANEKLQ--QQFVIHVFKLEQEEYIKEEIEW---VMIDF--
+TRINITY_DN52993_c0_g2_i6_21431      NGFEQLCINFANEHLQ--QLYVRHVFKLEQSQYAAEKIEW---TKVDF--
+CL2581.Contig1_Echiniscoides_21768  NGFEQMCINYANEKLQ--QLFVNHVFKLEQEEYTREGINW---QHIDY--
+Unigene11975_Echiniscoides_92010    ------------------------------LRL-----------------
+sp|Q8IZT6|ASPM_HUMAN                NRLLW-NPDIAA-EYR--HPTVPHLYRDGHEEALSKFTLKKLLLLVCFLD
+sp|Q8CJ27|ASPM_MOUSE                NRLLW-NPDIAA-EYR--HPTVPLLFRDGHEAALSKFTLKKLLLLICFLD
+sp|Q9VC45|ASP_DROME                 NRLFR-NKCEEQ-RYS--K--A-YTLTEEYAETIKKHSLQKILFLLLFLD
+NP_492467.1                         DLVFS-NPTMLK-NKKFAQGSGKPIITEAGKEALHKHFLSVSMKLMFLIE
+XP_025009015.2                      NRLLW-NPDIAA-EYR--HPTVPHLYREGHEEALSKFTLKKLLLLVCFLD
+XP_005161794.1                      GRLLW-NPDLAA-EFR--HSKVPHLYRDGHEEALSRFTLKKLILLVCFLD
+                                                                                      
+
+RvY_111121_11827                    -------FDNQPCIDLIEG-HLGILDLLDEECRMPRGSDRTWNQKMLNAA
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     -------TDNQEALDLLAVGSLNVIALIDEESKFPKGTDQSLLDKLHSQH
+BV898_00214.p01_11821               -------FDNQPCIDLIEG-RLGILDLLDEECRMPKGSDGTWNRKMISTA
+Unigene4338_Richtersius_51792       -------SDNQPCIDLIEG-RLGILDLLDEECKVPKGSDQTWVQKMIVTA
+gb|GFGY01000302.1|_71810            -------FDNQPCIDLIEG-KLGILDLLDEECKIPKGSDQNWVQKMFATA
+TRINITY_DN52993_c0_g2_i6_21431      -------SDNTPTISLLEM-HLGVFNLLDEECKVPNGSDKNWLTKMENRR
+CL2581.Contig1_Echiniscoides_21768  -------NDNQLCIDLIES-KLGVLDLLDEECKVPNGNADNWLTKMNNTM
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                YAKISRLIDHDPCLFCKDA-EFK----------ASKEILLA---------
+sp|Q8CJ27|ASPM_MOUSE                HAKISRLIDHDPCLFCKDA-EFK----------ASKELLLA---------
+sp|Q9VC45|ASP_DROME                 QAKQKRIVKHNPCLFVKKS-PHK----------ETKDILLR---------
+NP_492467.1                         TAHTHRVIPNLTRIFTKSS-HFN----------CLDDVFSE---------
+XP_025009015.2                      RAKQSRLIGHDPCLFCKDA-EFK----------SSKDILLA---------
+XP_005161794.1                      KAKESRLIEHDPCLFCMDA-EFK----------SSKDLLLA---------
+                                                                                      
+
+RvY_111121_11827                    LEKQ---------------------------KIAEKTWKYFNTPRFG-SE
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     GHNK-----------------------------------HYIKPKSDSEA
+BV898_00214.p01_11821               KDKE---------------------------KAADKSWKYFEKPRFS-EE
+Unigene4338_Richtersius_51792       KDRE---------------------------KAGEKAWKCFEKPRFS-NE
+gb|GFGY01000302.1|_71810            KDRE---------------------------KT-DKSWKYFEKPRFS-NE
+TRINITY_DN52993_c0_g2_i6_21431      NELCGTTLSHSNKYATLSRAGTRAVVVDEKVSAEVSSYSRFQTGR-G-GN
+CL2581.Contig1_Echiniscoides_21768  SSSSGGGG-------------------NNKGKANDEKWKHYKMLR-G-GA
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                ----------------------------------------FSRDFLS-GE
+sp|Q8CJ27|ASPM_MOUSE                ----------------------------------------FSRDFLS-GE
+sp|Q9VC45|ASP_DROME                 ----------------------------------------FSSELLA-NI
+NP_492467.1                         ----------------------------------------LTKELLT-GS
+XP_025009015.2                      ----------------------------------------ISRDFLS-GE
+XP_005161794.1                      ----------------------------------------FSRDFLS-GE
+                                                                                      
+
+RvY_111121_11827                    T-FI-------------IVHFADKVEYSCDG-------------------
+TRINITY_DN46711_c0_g1_i1_9167       ------------------------VDKRVDNLVVDLQDGVNLTALVEALQ
+TRINITY_DN46711_c0_g1_i3_1333       ------------------------VDKRVDNLVVDLQDGVNLTALVEALQ
+TRINITY_DN46711_c0_g1_i2_1556       ------------------------VDKRVDNLVVDLQDGVNLTALVEALQ
+Unigene8511_Echiniscoides_74852     R-FG-------------IVHFAGTVLYNVNG-------------------
+BV898_00214.p01_11821               S-FI-------------INHFADKVEYDSDG-------------------
+Unigene4338_Richtersius_51792       S-FI-------------VIHFADKVEYDCDG-------------------
+gb|GFGY01000302.1|_71810            S-FI-------------VIHFADKVEYDCNG-------------------
+TRINITY_DN52993_c0_g2_i6_21431      S-FI-------------ITHFAGKVEYSVSQ-------------------
+CL2581.Contig1_Echiniscoides_21768  G-FE-------------IIHFAGPVKYDANN-------------------
+Unigene11975_Echiniscoides_92010    ------------------------ASCRVQDLYIDLRDGRMLLKLLEILS
+sp|Q8IZT6|ASPM_HUMAN                G-DLSRHLGLLGLPVNHVQTPFDEFDFAVTNLAVDLQCGVRLVRTMELLT
+sp|Q8CJ27|ASPM_MOUSE                G-DLSRHLSFLGLPVSHVQTPLDEFDFAVTNLAVDLQCGVRLVRTVELLT
+sp|Q9VC45|ASP_DROME                 G-DITRELRRLGYVLQHRQTFLDEFDYAFNNLAVDLRDGVRLTRVMEVIL
+NP_492467.1                         SATFKKAFAKVGFIPTYRQSFIENYDYQAKGF-SDFSDGLILAKLLETVG
+XP_025009015.2                      G-DLSRHLGFLGLPVSHIQTPLDEFDFAVTNLAVDLQCGIRLVRAMELLT
+XP_005161794.1                      G-ILSRHLSHLGLAVSHVQTPLDEFNFAVKKLAVDLKCGIRLVRVMELFT
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       A--RKLATKTIRNP-INQHQMLENVQNALNALQDDGVKLV-----NIGNQ
+TRINITY_DN46711_c0_g1_i3_1333       A--RKLATKTIRNP-INQHQMLENVQNALNALQDDGVKLV-----NIGNQ
+TRINITY_DN46711_c0_g1_i2_1556       A--RKLATKTIRNP-INQHQMLENVQNALNALQDDGVKLV-----NIGNQ
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    G--DRLP-KPTPG--RMRIHCLENVDKALQFLKEQQVHLE-----NLGSH
+sp|Q8IZT6|ASPM_HUMAN                Q--NWDLSKKLRIPAISRLQKMHNVDIVLQVLKSRGIELSDEHGNTILSK
+sp|Q8CJ27|ASPM_MOUSE                Q--NWNLSDKLRIPAISRVQKMHNVDLVLQVLKSRGVPLTDEHGSAISSK
+sp|Q9VC45|ASP_DROME                 L--RDDLTRQLRVPAISRLQRIFNVKLALGALGEANFQLG----GDIAAQ
+NP_492467.1                         EMPHGQILLKLRDPAGDRIRKIGNVKIVLQEMSSLGVPTD-----NVNAE
+XP_025009015.2                      K--DWSLSKQLRVPAISRLQKMHNVNIVLNVLKERGIHLKDDSGASIDCR
+XP_005161794.1                      L--DWTLSRKLRIPAISRLQKVHNVDLALQVLKNKGVDLRDEHGANIDSR
+                                                                                      
+
+RvY_111121_11827                    -FLDKNRDTMNDEFVNLLRASDYPLV-AQLF-HDN----AETLTAGKSPD
+TRINITY_DN46711_c0_g1_i1_9167       DVVEGNLKLDLGLIWTLILRY----Q-IGKTN------------------
+TRINITY_DN46711_c0_g1_i3_1333       DVVEGNLKLDLGLIWTLILRY----Q-IGKTN------------------
+TRINITY_DN46711_c0_g1_i2_1556       DVVEGNLKLDLGLIWTLILRY----Q-IGKTN------------------
+Unigene8511_Echiniscoides_74852     -FLEKNRDTFSGDLRTLIATTKFKFL-RSLF-DVE---------------
+BV898_00214.p01_11821               -FLDKNRDTMNEEFVNLLRASEFPLV-AQLF-QDG----TPETLTAGKSP
+Unigene4338_Richtersius_51792       -FLDKNRDTMNEEFVNLLRASEFHLV-AQLF-ADS----GESITAGKSDK
+gb|GFGY01000302.1|_71810            -FLDKNRDTMNEEFVNLLRASEYHLV-AHLF-SDL----PDTTGKTPEKP
+TRINITY_DN52993_c0_g2_i6_21431      -FAEKNRDEINVDIVGCLQSSRNALI-AEIY-DIY----DAVDENGQPLP
+CL2581.Contig1_Echiniscoides_21768  -FVAKNRDEINHEIFNCLQESELSIL-NAIF-DQD----NSNLGSSPTNK
+Unigene11975_Echiniscoides_92010    DIVDGNTSLTLGLIWTIILRF----Q-IQDILIPTG--------------
+sp|Q8IZT6|ASPM_HUMAN                DIVDRHREKTLRLLWKIAFAF----Q-VDIS-LNLDQLKEEIAFLKHTKS
+sp|Q8CJ27|ASPM_MOUSE                DVVDRHREKTLGLLWKIALAF----Q-VDIS-LNLDQLKEEIDFLKHTHS
+sp|Q9VC45|ASP_DROME                 DIVDGHREKTLSLLWQLIYKF----R-SPKF-H-----------------
+NP_492467.1                         SIVGGKKDEILSILWAIIGVR----VAKEQR-IKVTRVSEE---------
+XP_025009015.2                      DIVDRHRERTLALLWKIVFAF----Q-VDIL-LNVEQLKEEIKFLKNAHK
+XP_005161794.1                      DIVDGHREKTLNLLWKIIFAF----Q-VEVL-LDENQLKEEISFLRKTWR
+                                     .   : .     :                                    
+
+RvY_111121_11827                    KNDRKTA--------------------STPTKQSGSTGGASRGTHKSHTQ
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------LQHGTETRKRSP
+BV898_00214.p01_11821               PRTGSTPT----------------KAASGFTHSNTPTPRAAGAAHKSHTQ
+Unigene4338_Richtersius_51792       GLL--------------------------NAKPTPVKQPPTMGTHKMTTQ
+gb|GFGY01000302.1|_71810            ----------------------------------KTGQVKSAPGGKTHTQ
+TRINITY_DN52993_c0_g2_i6_21431      NNNSLTRGGALPPNEAARTRVVAPYGDASGVASPRRRSAMQMLAATKKRP
+CL2581.Contig1_Echiniscoides_21768  RTNNNNIESA-------------TKRMKTVNTGVTPRRQSLMPKLKKQRA
+Unigene11975_Echiniscoides_92010    -------------------------------------------------E
+sp|Q8IZT6|ASPM_HUMAN                IKK-------------------------TISLLSCHSDDLINKKKGKRDS
+sp|Q8CJ27|ASPM_MOUSE                IKR-------------------------AMSALTCPSQAITNKQRDKRIS
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         ----------------------------------------RTPK--KRRS
+XP_025009015.2                      IKM-------------------------QLGALKLFSSC--RVQEDSSSS
+XP_005161794.1                      TKQ-------------------------KLASIMANNSV--TVS-RMKAR
+                                                                                      
+
+RvY_111121_11827                    SVGSQFQDSLKALMDTLNA-TTPHYVRCIKPNDDKAAFKFDPKRA-----
+TRINITY_DN46711_c0_g1_i1_9167       ------LPPKKLMIAWLQA-VL--RDRC----------------------
+TRINITY_DN46711_c0_g1_i3_1333       ------LPPKKLMIAWLQA-VL--RDRSIK--NFTTNWN--SGILLSGLL
+TRINITY_DN46711_c0_g1_i2_1556       ------LPPKKLMIAWLQA-VL--RDRSIK--NFTTNWN--SGILLSGLL
+Unigene8511_Echiniscoides_74852     SLSAQFRKSLDSLMRQLSN-CQPFFVRCIKPNEQKMAMLFDRPLC-----
+BV898_00214.p01_11821               SVGSQFQDSLRALMDTLNR-TTPHYVRCIKPNDEKAAFGFDPKRA-----
+Unigene4338_Richtersius_51792       SVGSQFQDSLKALMTTLNK-TTPHYVRCIKPNDQKKAFEFDPKRA-----
+gb|GFGY01000302.1|_71810            SVGSQFEDSLKALMATLTK-TTPHYVRCIKPNDDKAAFEFDPKRA-----
+TRINITY_DN52993_c0_g2_i6_21431      TVSFQFRQSLQDLMKVLDS-TTPHFIRCIKPNDEKKPFLLDNKRA-----
+CL2581.Contig1_Echiniscoides_21768  TVSNQFKASLETLMNLLKS-TTPHFIRCIKPNDNKKAFTFDNDRA-----
+Unigene11975_Echiniscoides_92010    EDRET-KSAKDALLLWCQMKTADYPNVNIK--NFTTSWR--DGLAFNALI
+sp|Q8IZT6|ASPM_HUMAN                GSFEQYSENIKLLMDWVNA-VCAFYNKKVE--NFTVSFS--DGRVLCYLI
+sp|Q8CJ27|ASPM_MOUSE                GNFERYGDSVQLLMDWVNA-VCAFYNKKVE--NFTVSFS--DGRILCYLI
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         AVHDDMSSE---VLKMCKI-YGRQMEIEVM--DL-DSLS--DGCLLAKLW
+XP_025009015.2                      PSPQSHSENVKLLMAWVNA-VCGFYNIKVE--NFTVCFS--DGRVLCHLI
+XP_005161794.1                      RAFEHPSQKVTLLMDWVNA-VCEFYSLKAE--NFTVSFS--DGRILCYLI
+                                                                                      
+
+RvY_111121_11827                    ----------------IQQLRACGVLETIRISAAG---------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       EYCQPGLFPNWRQLDPN---------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       EYCQPGLFPNWRQLDPN---------------------------------
+Unigene8511_Echiniscoides_74852     ----------------CKQLRYSGMMETIRIRRAG---------------
+BV898_00214.p01_11821               ----------------IQQLRACGVLETIRISAAG---------------
+Unigene4338_Richtersius_51792       ----------------IQQLRACGVLETVRISAAG---------------
+gb|GFGY01000302.1|_71810            ----------------IQQLRACGVLETIRISAAG---------------
+TRINITY_DN52993_c0_g2_i6_21431      ----------------IEQLRACGVLETCRIASAG---------------
+CL2581.Contig1_Echiniscoides_21768  ----------------IEQLRACGVLETVRIAANG---------------
+Unigene11975_Echiniscoides_92010    HKHRPDLISYDQLSKA----------------------------------
+sp|Q8IZT6|ASPM_HUMAN                HHYHPCYVPFDAICQRTTQTVECTQTGSVVLNSSSESDDS---SLDMSLK
+sp|Q8CJ27|ASPM_MOUSE                HHYHPCYVPFDAICQRTSQSVACAQTGSVVLNSSSESEGG---CLDLSLE
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         TTFGTNSTPIQDYDGLS---------------------------------
+XP_025009015.2                      HHYHPCYVPLEAVCQRTTQTVECSRTHKVGLNCSSSSSSESDTSLNVMEG
+XP_005161794.1                      HHYHPGHLHAEEIQQRTTQTIECGHRGRVELNNSSSDSDC---SFENLA-
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       -----------------NKVENCRRAMEIAERVFGIPQIVAPEDLANPEL
+TRINITY_DN46711_c0_g1_i2_1556       -----------------NKVENCRRAMEIAERVFGIPQIVAPEDLANPEL
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    -----------------NPDYNLNNAFNVAEKDLDITKLLDAEDVNVEYP
+sp|Q8IZT6|ASPM_HUMAN                AFD-HENTSELYKELLENEKKNFHLVRSAVRDLGGIPAMINHSDMSNTIP
+sp|Q8CJ27|ASPM_MOUSE                ALD-HESTPEMYKELLENEKKNFHLVRSAARDLGGIPAMIHHSDMSNTIP
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      PFDQTVTASVLYKELLENEKKNFQLINNAVADLGGIPAMIHVSDMSNTIP
+XP_005161794.1                      TMQ-SESVTVDFRELLENEKSNFQLVNTAVSYLGGVPAMINPEDMSNTIP
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       DELSGMTYLSTGAN------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       DELSGMTYLSYFMNKGSP--------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    DEKSIITYVVAYYHYFSKMKTDTVQGRRIGKIVDIAKDCDEMAADYDRLS
+sp|Q8IZT6|ASPM_HUMAN                DEKVVITYLSFLCARLLDLRKEIRAA----RLIQTTWRKYKLKTDLKRHQ
+sp|Q8CJ27|ASPM_MOUSE                DEKVVITYLSFLCARLLDLRKEIRAA----RLIQTTWRKYKLKRDLKHHQ
+sp|Q9VC45|ASP_DROME                 -----------------------AAA----TVLQKWWRRHWLH-------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      DEKVVITYLSFLCSRLLDLRQETRAA----RLIQSAWRKYSLKRELKLSQ
+XP_005161794.1                      NEKVVTCYLSFLCARLLDLRNETRAA----RVIQGAWRRYKLQKDIALMH
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    SDLLQWIR------ETIDRLDNRKFANSLQGVQRQLAEFNSYRTIEKPPK
+sp|Q8IZT6|ASPM_HUMAN                EREKAARIIQLAVINFLAKQRLRKRVNAALVIQKYWRRVLAQRKLLMLKK
+sp|Q8CJ27|ASPM_MOUSE                ERDKAARVIQSVVLNFLSRRRLQKNVSAALVIQKCWRRVSAQRKLRMLKN
+sp|Q9VC45|ASP_DROME                 ------------------------------------------VVIQRRIR
+NP_492467.1                         -----------------LWEKVVSVAELELCIQRGLDQNMALFVKMFLER
+XP_025009015.2                      ERDRAARIIQKYAINFLSHRRLVKEHNAAVIIQKHWRRFLARMIFLNLKK
+XP_005161794.1                      EKNLAATKIQALARKFILKRRLIRQNKAAVKIQTLWRGYSAREKLRVLKK
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    FQERGDLEFRL-----------------------FTLNSKLRANNMKSYS
+sp|Q8IZT6|ASPM_HUMAN                EKLEKVQNKAASLIQGYWRRYSTRQRFLKLKYYSIILQSRIRMIIAVTSY
+sp|Q8CJ27|ASPM_MOUSE                EKLAKLQNKSAVLIQAYWRRYSTRKRFLRLKHYSVILQSRIRMKIALTSY
+sp|Q9VC45|ASP_DROME                 HKELMRRHRAATVIQAVFRGHQMRKYV-----------------------
+NP_492467.1                         LGMIQDL-------------------------------------------
+XP_025009015.2                      TKWEEARSKSATVIQAYWRGYSARKSYLQLRYYVIFLQARIRMLLSVTAY
+XP_005161794.1                      ERHYALQNAAATLIQKTYKAWRVKNLL-KKNRSAFVIQAAFRKWHAKKML
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    PREGK------------------------------MLSDINKAWEE----
+sp|Q8IZT6|ASPM_HUMAN                KRYLWATVTIQRHWRAYLRRKQDQQRYEMLKSSTLIIQSMFRKWKQ----
+sp|Q8CJ27|ASPM_MOUSE                KRYLWATVTIQRHWRAYLSRKRDQQIFRKLKSSSLVIQFMFRRWKR----
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      KRILWATVTIQNRLRASKLAKEHRQRYEILRSSALTIQSAFRKWRK----
+XP_005161794.1                      ERN-TAALRIQAWYRMQLC----KRQYLEMKRKAVCVQAWFRGHLQRSKF
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    LEK-AEHERELALREEVLRQEKLEKVA-DNFDKKAGMRESWISEN----Q
+sp|Q8IZT6|ASPM_HUMAN                RKM-QSQVKATVILQRAFREWHLRKQA-KE-ENSAIIIQSWYRMH----K
+sp|Q8CJ27|ASPM_MOUSE                RKL-QLQTKAAVTLQRAFREWHLRKQI-R--ERSAVVIQSWYRMH----R
+sp|Q9VC45|ASP_DROME                 KLFKTERTQ-----------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      HKM-QEKIRAALVLQRYFRKQQSSKLA-KR-KRAALVIQSWYRMH----R
+XP_005161794.1                      QNL-KKRHHASVVIQSAFRAYLIRKELSKM-KQNAVLIQRWFRACVQRKA
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    RLVSQDNFGTDLASVEASAKKHEAIETDIYAYE--------ERVQAVIND
+sp|Q8IZT6|ASPM_HUMAN                ELRKYIYIRSCVVIIQKRF----RCFQAQKLYKRRKESILTIQKYYKAYL
+sp|Q8CJ27|ASPM_MOUSE                ELQKYIYIRSCVIVIQRRV----RCFQAQKLYKRRKDAILTLQKHYRARQ
+sp|Q9VC45|ASP_DROME                 ----------AAIILQKFT----RRYLAQKQLYQSYHSIITIQRWWRAQQ
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      DRKRYLRVQQSIIKIQAWY----RCQIARRIYQEYRAQIVTIQQYYRAYT
+XP_005161794.1                      EQKRYFEIKSAVLVLQAAF----RGWKVRKSVAQHHRSALVIQTAFRRFT
+                                                                                      
+
+RvY_111121_11827                    ----------------------------------------------YPSR
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     ----------------------------------------------YPIR
+BV898_00214.p01_11821               ----------------------------------------------YPSR
+Unigene4338_Richtersius_51792       ----------------------------------------------YPSR
+gb|GFGY01000302.1|_71810            ----------------------------------------------YPSR
+TRINITY_DN52993_c0_g2_i6_21431      ----------------------------------------------FPTR
+CL2581.Contig1_Echiniscoides_21768  ----------------------------------------------FPTN
+Unigene11975_Echiniscoides_92010    QKYLESEN------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                KGKIERTNYLQKRAAAIQLQAAFRR----LKAHNLC-R-QIRAACVIQSY
+sp|Q8CJ27|ASPM_MOUSE                KGKLAHADYLQKRAATIRLQAAFRG----MKARHSY-RLQIGAACVLQSY
+sp|Q9VC45|ASP_DROME                 LGRQHRQRFVELREAAIFLQRIWRR----RLFAKKLLA------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      FGKKERENYLQKRAAAVVLQAAFRG----KKARILY-R-QTKAACVVQSL
+XP_005161794.1                      ----AQRHFLCLKRSAIVLQQRYRAKVHGGKFRKEY-MALKSASVRIQAM
+                                                                                      
+
+RvY_111121_11827                    WSYREFFVRYRVMCRSCEVSR-----TDVRKTVETIVRNLIKD-------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     YQFYEFVDRYRVLVKGIEPAQKANCKKAAEIICKQILRKPDGK-------
+BV898_00214.p01_11821               WTYKDFFVRYRVMCRSKEIDR-----TNIRKTVEIIVTKLIDD-------
+Unigene4338_Richtersius_51792       WTYKDFFLRYRVMCRSREVDR-----KNYRRTVENIVTKLIAD-------
+gb|GFGY01000302.1|_71810            WTYKDFFLRYRAMCHSKEINR-----GNIRKTVEIIVTKLISD-------
+TRINITY_DN52993_c0_g2_i6_21431      WPFERFVERYRPLAAVAVLKK-----PTMSEKCQCILKAFKDA-TGKTD-
+CL2581.Contig1_Echiniscoides_21768  WLYEKFNSRYNVLLPFSLRKK----RQEQPTECSTAIMHYVIEKSDKLNA
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                WRMR----------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                WRMR----------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      WRMR----------------------------------------------
+XP_005161794.1                      WRGR----------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    ----TDKYKLGKTMV-----------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     ----LEDFQLGKTKIFLKDAHDTKL-------------------------
+BV898_00214.p01_11821               ----RDKYKFGKTMI-----------------------------------
+Unigene4338_Richtersius_51792       ----PDKYKLGKTMI-----------------------------------
+gb|GFGY01000302.1|_71810            ----PDKYKLGKSMI-----------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      AETFDDKYRIGVTKI-----------------------------------
+CL2581.Contig1_Echiniscoides_21768  DNTADLLYLQGSTKI-----------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                ------------------------QDRVRFLNLKKTIIKFQAHVRKHQQR
+sp|Q8CJ27|ASPM_MOUSE                ------------------------QERVRFLNLKKMVIKLQAHIRKYQQL
+sp|Q9VC45|ASP_DROME                 -------------------------------------------AAETARL
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      ------------------------QAKLSFLLLKKSATILQSHVRKYQQV
+XP_005161794.1                      ------------------------AERKKISQLHRFAKIIQSNYRRHLEQ
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --YHDIERITARKDNVL---------------------------------
+sp|Q8IZT6|ASPM_HUMAN                QKYKKMKKAAVIIQTHFRAYIFAMKVLASYQKTRSAVIVLQSAYRGMQAR
+sp|Q8CJ27|ASPM_MOUSE                QKYKKIKKAAITIQTHFRASISARRVLASYQKTRSSVIVLQSACRGMQAR
+sp|Q9VC45|ASP_DROME                 QRSQKQQAAASYIQMQWRSYQLGRIQR-----------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      KRYKEMKNAARVIQAWYRAHVASKKAASSFQRMRLAAIVLQSAYRGRKAR
+XP_005161794.1                      TRFLQMKRAAVVIQRQYRAFRDGQKVHAEYTKIKRAAIILQSAYRGRRIR
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                KMYIHILTSVIKIQSYYRAYVSKKEFLSLKNATIKLQSTVKMKQTRKQYL
+sp|Q8CJ27|ASPM_MOUSE                KAFRHALASVIKIQSYYRAYICRKTFQNFKNATIKLQSIVKMKQSRKQYL
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      KEV-HVLRSVIKIQSSFRAYVVQKRFKNLRKATVKIQAHVKMRQARRYYC
+XP_005161794.1                      QELQRKNK-----------------------AATLIQSVMRAHMCHQQFL
+                                                                                      
+
+RvY_111121_11827                    -----------FFRAGQVAYMEKLRNERRMALGLLIQKSVRAWVQRK---
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     ---------------------ENARDRALSHKIQILQAAVRGWIQRK---
+BV898_00214.p01_11821               -----------FFRAGQVAYMEKLRADRRMACGLIIQKIFRGRAARR---
+Unigene4338_Richtersius_51792       -----------FFRAGQVAYMEKLRSDKRNAAVLMIQKSFRGWLARR---
+gb|GFGY01000302.1|_71810            -----------FFRAGQVAYMEKLRSERRMACGLLIQKSIRGWLARK---
+TRINITY_DN52993_c0_g2_i6_21431      -----------FLRAHMVAVLERMRLDKLNTTADFWKRLLRGRRDRR---
+CL2581.Contig1_Echiniscoides_21768  -----------FLRAQIVAILERHRADKLMHSAIIVQKYARKFIYRR---
+Unigene11975_Echiniscoides_92010    -------------RLWKYLLELLNGRRQRLENTRLLYQTFEEMVQ-----
+sp|Q8IZT6|ASPM_HUMAN                HLRAAALFIQQCYRSKKIAAQKREEYMQMRESCIKLQAFVRGYLVRKQMR
+sp|Q8CJ27|ASPM_MOUSE                QIRAAALFIQRWYRSQKLASQKRKEYIQVRESCIKLQSHFRGCLVRKQLR
+sp|Q9VC45|ASP_DROME                 -----------------------QQFLR----------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      ALREATLYVQQRYRSRRYALQLNKDFRKLKGACIRIQAAVRGYLVRKQIK
+XP_005161794.1                      AQKHAAIVIQQQFRAFTFGRMERSHYMRLRKATITMQAIYRGSKVRQNLK
+                                                                                      
+
+RvY_111121_11827                    -----------------------------------------------KYL
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     -----------------------------------------------RYR
+BV898_00214.p01_11821               -----------------------------------------------KYL
+Unigene4338_Richtersius_51792       -----------------------------------------------KYI
+gb|GFGY01000302.1|_71810            -----------------------------------------------KFL
+TRINITY_DN52993_c0_g2_i6_21431      -----------------------------------------------RYL
+CL2581.Contig1_Echiniscoides_21768  -----------------------------------------------RFL
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                LQRKAVISLQSYFRMRKARQYYLKMYKAIIVIQNYYHAYKAQVNQRKNFL
+sp|Q8CJ27|ASPM_MOUSE                LQCKAAISLQSYFRMRTARQRYLKMCKAALVIQSFYCAYRAQISQRKNFL
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      KWRETAVFLQAQYRMRRTRARYLIIYTAAVVIQKRYRAYRKQLCQRQEFL
+XP_005161794.1                      REHQAATVIQAQFRMHKVRIPFVAAKCAAILIQQHYRAYKVGKTVQATYL
+                                                                                      
+
+RvY_111121_11827                    QLKKSVIRIQAVSRAYLARKHFQHLRKTAAATKIQASFRGFQQRKR----
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     KMRQATVTIQ-------------------------KRWRGHYEQKR----
+BV898_00214.p01_11821               EMRRAALAIQTAARGYLARKHYQHLRRSAAALKIQTAFRGYQQRKK----
+Unigene4338_Richtersius_51792       QIRRTVIKIQTMARGFLARRHYKHLRETAAAVKIQAAVRGFIQRRR----
+gb|GFGY01000302.1|_71810            ALRDLTVKIQTMVRGYLARRHYQEMRRTAAATKIQAVIRGFLARRR----
+TRINITY_DN52993_c0_g2_i6_21431      QLRKATIQLQAGARGFLARKLRDSLLRTHAATTLQAHVRRYQAQKR----
+CL2581.Contig1_Echiniscoides_21768  QLKSTVIALQANCRRVLAQRELLHLRQQKAAITIQTAWRAAVERKK----
+Unigene11975_Echiniscoides_92010    -------------------------------------------VLDQMED
+sp|Q8IZT6|ASPM_HUMAN                QVKKAATCLQAAYRGYKVRQLIK--QQSIAALKIQSAFRGYNKRVK----
+sp|Q8CJ27|ASPM_MOUSE                QVKRAAICLQAAYRGCKVRRQIK--QQSTAAVTIQRVFRGHSQRMK----
+sp|Q9VC45|ASP_DROME                 -QRDLIMFVQRRMRSKW---------------------SMLEQRKE----
+NP_492467.1                         ---------------------------NEKATKIQRMWKAYVQRKN----
+XP_025009015.2                      QVKKAAVCIQAAYRGYKARKMLK--LEHRAAVKVQTAFRAHAAKKK----
+XP_005161794.1                      QMKNAAVVIQSAFRGMKVRNYLR--KSHQAAKVIQAHFRGHSQLKK----
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    LRSKLESEEYGRHLMDVEDLLQKHALLEQDIAILGDRVRGLNTTAKTFVD
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    NDEPIEDVQLVNDRIEHLETKYAEIMELAQDRRNRLEESKRIWQFLWDMA
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    EEEGWIKEKKQILMSEDIGKDLTSINLLINKHKSLEDDMSARKAHLLEVI
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    QNGEQMIADDHFGSEQIQNRIDDINAMWENLMELSALRKQRLLEAVDYHQ
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    FFVDAHDVDSWMVDSLKVVTSPDYGRDESTAHSLLRKHEQVLDNLSQYDA
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    SIESLREQASKLGEVDRESPAVRERINEIIERYDDLKRLGDIRKQRLHDA
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    -----------------------FQSIQKSVVALQALARGYAARRRHYA-
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     -----------------------YKTMRKGFTRLQALYRARRLQRDFRK-
+BV898_00214.p01_11821               -----------------------FATLRSMAIRMQALTRGKAARKMYQA-
+Unigene4338_Richtersius_51792       -----------------------YRKLRSTITAVQAVARGRFARSRYVE-
+gb|GFGY01000302.1|_71810            -----------------------YQKTKKAAVALQALARGRAARKRYLA-
+TRINITY_DN52993_c0_g2_i6_21431      -----------------------YVRLRNIVIQLQAHVRGAAVRRYYAN-
+CL2581.Contig1_Echiniscoides_21768  -----------------------YAKLRTATIELQRHCRGWLCRKNVQA-
+Unigene11975_Echiniscoides_92010    LKLYKLVNEADNVEQWAQEKERML--------------------------
+sp|Q8IZT6|ASPM_HUMAN                -----------------------YQSVLQSIIKIQRWYRAYKTLHDTRTH
+sp|Q8CJ27|ASPM_MOUSE                -----------------------YQTMLQSAVKIQRWYRAQKVAYDMRIQ
+sp|Q9VC45|ASP_DROME                 -----------------------FQQLKRAAINIQQRWRAKLSMRKCNAD
+NP_492467.1                         -----------------------TPKLYFIVQQL--LADSSIPRNR--SV
+XP_025009015.2                      -----------------------YQAMIQASVVIQRWYRTCKTRNRQRLA
+XP_005161794.1                      -----------------------YRRQQWAASVLQQRFRATVTKNAVMKQ
+                                                                                      
+
+RvY_111121_11827                    -QVRHQKAIVIQKHVRGWLARKRYARILHKIVYLQSCWRRWKARKELKAL
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     ---LRAFVISFQAVCRGYLQRQSLQSKQHAVVKLQAGVRGYLARKAYAKM
+BV898_00214.p01_11821               -RLLDKLAVGIQSIARGFMARRRYQKQLRRIILVQSCIRRFLAKRKLKAL
+Unigene4338_Richtersius_51792       -ALHNRKAVIIQKHVRGWLARRRYQKTIKKIILVQCCIRRYLAKKELRVL
+gb|GFGY01000302.1|_71810            -VLQRVKAIIIQKHIRGWLARIRFHKTLRKIVLMQCCIRRHLAKKQLRLL
+TRINITY_DN52993_c0_g2_i6_21431      -IQQNRAAVKIQAAWRGYQGRKLAKEKLKKIRIVQSCVRRYLARRRLKEL
+CL2581.Contig1_Echiniscoides_21768  -QRENNAALIIQNAWRTYKCRTQYKLHLDQIVLAQSCVRRFLAIRQAKKL
+Unigene11975_Echiniscoides_92010    -----------------------------------------------KTM
+sp|Q8IZT6|ASPM_HUMAN                FLKTKAAVISLQSAYRGWKVRKQIRREHQAALKIQSAFRMAKAQKQFRLF
+sp|Q8CJ27|ASPM_MOUSE                FLKTREAVVCLQSAYRGWQVRQQLRRQHEAAVKIQSTFRMAVAQQQYKLL
+sp|Q9VC45|ASP_DROME                 YLALRSSVLKVQAYRKATIQMR-------------------IDRNHYYSL
+NP_492467.1                         SPFSNNVTFTVPR-------------------------------------
+XP_025009015.2                      FLMTRAAVLTLQSAFRGYQVRKQIRRRHAAATAIQSAFRKFMALKMFRLR
+XP_005161794.1                      YAAIKTATICIQSAFRGMVARKQIAEKQKCAKIIQKMYRAYKQRHDYLAL
+                                                                                      
+
+RvY_111121_11827                    KIQARDVDHIKSLN-KGLENK---------IIELQ---------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     KLLNVKRREIDLLRD-QEYA---------ELKKKVSSSKAKELADQKRLE
+BV898_00214.p01_11821               KIQARDVNHVKQLN-KGLENK---------IFTLQ---------------
+Unigene4338_Richtersius_51792       KIEARNVEHVKQLN-KGLENK---------IINLQ---------------
+gb|GFGY01000302.1|_71810            KVEARSVEHVKQLN-KGLENK---------IIHLQ---------------
+TRINITY_DN52993_c0_g2_i6_21431      KKEARNVTHLQSLS-KGLENK---------LFKMQ---------------
+CL2581.Contig1_Echiniscoides_21768  RAEQKSVHVWQDKN-EGLSKK---------LSKMA---------------
+Unigene11975_Echiniscoides_92010    HPDA----------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                KTAALVIQQNFRAWTAGRKQCMEYIELRHAVLVLQSMWKGKTLRRQLQRQ
+sp|Q8CJ27|ASPM_MOUSE                RAAAAVIQQHVRARAAGKRQHLAYIQLRHAALVFQAAWKGKMLRRQIARQ
+sp|Q9VC45|ASP_DROME                 R-------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      NRAALTIQRHYRASVISRKQRQYYVELRNCVVHLQAIWRGKTVRRKIQKK
+XP_005161794.1                      RNATIRIQQQYRAVVSARQQHQRYCSLRAAAITLQSSYRGLRARKEINRR
+                                                                                      
+
+RvY_111121_11827                    -------------------------------HK-----------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     RLKELDESIYEAELRKRQLWMKKRKQ------------------------
+BV898_00214.p01_11821               -------------------------------QK-----------------
+Unigene4338_Richtersius_51792       -------------------------------QK-----------------
+gb|GFGY01000302.1|_71810            -------------------------------QK-----------------
+TRINITY_DN52993_c0_g2_i6_21431      -------------------------------RH-----------------
+CL2581.Contig1_Echiniscoides_21768  -------------------------------HE-----------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                HKCAIIIQSYYRMHVQQKKWKIMKKAALLIQKYYRAYSIGREQNHLYLKT
+sp|Q8CJ27|ASPM_MOUSE                HQCAALIQSYYRMHIQRRKWSIMKTAALQIQLCYRAYKVGKEQRHLYLKT
+sp|Q9VC45|ASP_DROME                 ------------------------KNVICLQQRLRAIMKMREQRENYLRL
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      HNLATIIQSYYRMHVSQLKFKKLRQSTLVIQRYFRAYRMKKNQRALYLKT
+XP_005161794.1                      QKAATVIQAAYKMYRTRVPFQAMKLASLVIQRQYRCHLLRKKARENFLKL
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    TDIEEVEVMKHRFKGLQEEMDNQTVKLETVNDNARQLLEGEHPNSEEIVQ
+sp|Q8IZT6|ASPM_HUMAN                K-------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                K-------------------------------------------------
+sp|Q9VC45|ASP_DROME                 R-------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      K-------------------------------------------------
+XP_005161794.1                      K-------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    RQQRLNNLWERLQEQVQTKDDQLGKTHGYQTFKIECQETTRWIEEKIRLM
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    ---------------------------------LNEQNVELAHKRKLEEE
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               ---------------------------------VDELNGELVTRRKMDAE
+Unigene4338_Richtersius_51792       ---------------------------------VDELNGELHTRRKMDEE
+gb|GFGY01000302.1|_71810            ---------------------------------VDELNGELVQRRKLDEE
+TRINITY_DN52993_c0_g2_i6_21431      ---------------------------------FDAREAEQRLEAERQAA
+CL2581.Contig1_Echiniscoides_21768  ---------------------------------NGQLQQQNQQLVKKVDK
+Unigene11975_Echiniscoides_92010    EESVELGNDLSGLMKLQRRLSFVERDMAAIQAKLDSLEDEA---------
+sp|Q8IZT6|ASPM_HUMAN                -AAVVTLQSAYRGMKVRKRIKDCNKAAVTIQSKY----------------
+sp|Q8CJ27|ASPM_MOUSE                -AAVVTLQSAYRGMKVRKRVAECHKAAVTIQSKF----------------
+sp|Q9VC45|ASP_DROME                 -NASILVQKRYRMRQ-----------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      -AAVLVLQSAYRGMTARKQLRELSKAARTIQAAF----------------
+XP_005161794.1                      -QSAVAIQAIYRGKLARRDLARRHFAATIIQRKY----------------
+                                                                                      
+
+RvY_111121_11827                    VKDLRVKAALVRQLES----EVQHKQAQVALLEQNMMAYQSQLSNEHKKT
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               VLELRTKAAGLRQLEA----DLHSRTSEIALLHATIAELRTTISTHERHT
+Unigene4338_Richtersius_51792       VRELRNKAATAKQLDH----EIQQKSIQVQNVERTLEEVRRELAQERKHA
+gb|GFGY01000302.1|_71810            IRELRTRAALVKHLEH----DLHQKAVEAQTLVHQMEDLRKALTHEQKHA
+TRINITY_DN52993_c0_g2_i6_21431      -EHRAEVERLRQENVIATALVAQQELQLRNQVVN------E--------A
+CL2581.Contig1_Echiniscoides_21768  LEAFAKKHQQNGDKKY----TQSDMDKLQQQLQA------KFQLKLDDVV
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                -----------------------------------------RAYKTKKKY
+sp|Q8CJ27|ASPM_MOUSE                -----------------------------------------RAYRTQKKY
+sp|Q9VC45|ASP_DROME                 -----------------------------------------QMIQDRNAY
+NP_492467.1                         --------------------------------------TPRNNILTERPS
+XP_025009015.2                      -----------------------------------------KSYLVKKDY
+XP_005161794.1                      -----------------------------------------LAYKQRKCF
+                                                                                      
+
+RvY_111121_11827                    EGLSNDLSILRAL-------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               ESLTEDIRNLRST-------------------------------------
+Unigene4338_Richtersius_51792       ETVTAEVAHYKHL-------------------------------------
+gb|GFGY01000302.1|_71810            ETLSGEINTYKVQ-------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      EILHARIKELEET-------------------------------------
+CL2581.Contig1_Echiniscoides_21768  KQNDGKLGEMKKH-------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                ATYRASAIIIQRWYRGIKITNHQHKEYLNLKKTAIKIQSVYRGIRVRRHI
+sp|Q8CJ27|ASPM_MOUSE                TTYRTSAIVIQRWYRNIKITTQQHQEYLNLRRAAVQVQAAYRGIRVRRRI
+sp|Q9VC45|ASP_DROME                 LRTRKCIINVQRRWRATLQMRRERKNYLHLQTTTKRIQIKFRAKR-----
+NP_492467.1                         LSQIPSSRQSMDSTFNDATFTVSRDSIESMNKMQKTPLRGTFTRKTIAMV
+XP_025009015.2                      VRLRSAAVVIQRRYRAVIHANRQRHKYLSLKMAAIKMQAIYRGVKVRRQI
+XP_005161794.1                      LTLQAAVIFCQQHYRSILLTRHDRKDYLTKRRAVVAIQASFRGMNVRRQI
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  ------------------------------------YDAKVKFLIDEKQT
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                QHMHRAATFIKAMFKMHQSRISYHTMRKAAIVIQVRCRAY----------
+sp|Q8CJ27|ASPM_MOUSE                QHMHMAATLIEAMFKMRQSRVRYLKMRTAALIIQVRYRAY----------
+sp|Q9VC45|ASP_DROME                 --------------EMKKQRAEFLQLKKVTLVVQKRRRAL----------
+NP_492467.1                         IEEEDDSENNETVVPSTLKKRTVVRMEHNAEVFREQDEDDENQDKDTVAP
+XP_025009015.2                      HSMHRAAICIQAMFKMHCINIRYREIRMAVIIIQRQYRAF----------
+XP_005161794.1                      RREHKAATIIQSHVRMRILNLRFQRLRWAVCTVQQRFRAN----------
+                                                                                      
+
+RvY_111121_11827                    --------VIAKDNTIGEMTSKHSEEVVSWHKEKEMLHQAAVSQLGVANR
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------VITKDQQAAEQSSKHAEEMQTLRRENQALHEVSKSQSGLLTK
+Unigene4338_Richtersius_51792       --------LSTREAALSEIAGRHGDEMQRLRLENQALHEISKNQSDVLSK
+gb|GFGY01000302.1|_71810            --------MAEREAKVGHLTEQHQDEMQKLKLENQALHEVSKNKSDVVMR
+TRINITY_DN52993_c0_g2_i6_21431      --------LRAEQNEKTKLH-RKLRRADKVQENVVTLQAKLA----RVEK
+CL2581.Contig1_Echiniscoides_21768  MELTMRQSTKRKNRLTIFGN-EVNPPIKVTNKDGTPLPALPQ----LSNS
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         SAENLDSPPSDIPLETLSSIPSASQSAIFLQDSETGKEMHVPKAEDVGVV
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    QLQERIEGLQKELADERE--------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               EYDERIGTLERDLLEERE--------------------------------
+Unigene4338_Richtersius_51792       EFEERIDSLQREVAEERE--------------------------------
+gb|GFGY01000302.1|_71810            EFEERMETLQRELIEERE--------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      QHEQELNAVRRQAEDALQ--------------------------------
+CL2581.Contig1_Echiniscoides_21768  ACQTPTTLKPPPNVEQQN--------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                ----------YQGKMQRE--------------------------------
+sp|Q8CJ27|ASPM_MOUSE                ----------YLGKIQHE--------------------------------
+sp|Q9VC45|ASP_DROME                 ----------LQMRKERQ--------------------------------
+NP_492467.1                         VLEASDSPVALEG----NNEASYDGQKIENLETFEIKEGKTQEDLPSKSP
+XP_025009015.2                      ----------CLGRVQRK--------------------------------
+XP_005161794.1                      ----------KIMRQEMA--------------------------------
+                                                                                      
+
+RvY_111121_11827                    -----------------------------------GR-------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               -----------------------------------AR-------------
+Unigene4338_Richtersius_51792       -----------------------------------NR-------------
+gb|GFGY01000302.1|_71810            -----------------------------------GR-------------
+TRINITY_DN52993_c0_g2_i6_21431      -----------------------------------SRDE-----------
+CL2581.Contig1_Echiniscoides_21768  -----------------------------------LINT-----------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                -----------------------------------KYLTILKAVKVLQAS
+sp|Q8CJ27|ASPM_MOUSE                -----------------------------------KYLRTLKAIKTLQAG
+sp|Q9VC45|ASP_DROME                 -----------------------------------EYLHLREVTI-----
+NP_492467.1                         MDPTQTSGSPLVEFRMTEEQERLEMLFQSLSEDQKN--------------
+XP_025009015.2                      -----------------------------------KYLELRKSSVVLQAA
+XP_005161794.1                      -----------------------------------ALQEKKSAALILQAA
+                                                                                      
+
+RvY_111121_11827                    ---------------------------------QRTVDDLDRYKQRHANL
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               ---------------------------------QRALDDLDRVRQRHSNL
+Unigene4338_Richtersius_51792       ---------------------------------QRAIDDLDRMKQRYANL
+gb|GFGY01000302.1|_71810            ---------------------------------QRVVNDLDRWKQRHANL
+TRINITY_DN52993_c0_g2_i6_21431      -------------------------------TVHHIEHMGRRLLAMY---
+CL2581.Contig1_Echiniscoides_21768  -------------------------------LTQELNNSRNTCDLLK---
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                FRGVRVRRTLRKMQTAATLIQSNYRRYRQQTYFNKLKKITKTVQQRY---
+sp|Q8CJ27|ASPM_MOUSE                VRGARVRRTVRKMHFAATLIQSHFRGHRQQTYFHRLRKAATMVQQRY---
+sp|Q9VC45|ASP_DROME                 -----------------------------------------KLQRRF---
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      FRGMKVRQDLKRMHRSAALIQSYYRMHKQQRDFRNLLLATRRIQQRY---
+XP_005161794.1                      YRGKKTRQALKQMHQAATIIQSHVRMRILNLRFQRLRWAVCTVQERF---
+                                                                                      
+
+RvY_111121_11827                    ENQMKMEGRQ--TRSHHQRSP-----------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               EDQMKIEGRQ--AR-SLQRTP-----------------------------
+Unigene4338_Richtersius_51792       EDQIRVEGTGRSTR-SHNRSP-----------------------------
+gb|GFGY01000302.1|_71810            EDQLRMEGGS--RR-GHNRSP-----------------------------
+TRINITY_DN52993_c0_g2_i6_21431      -EQLDEAAVENR---MLTRQLLDE--------------------------
+CL2581.Contig1_Echiniscoides_21768  -QECNLL----R---SQMLGDNSR--------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                -WAMKERNIQFQ---RYNKLRHSVIYIQAIFRGKKARRHLKMMHIAATLI
+sp|Q8CJ27|ASPM_MOUSE                -RAVKEGSAEFQ---RYSRLRRSVLLIQAAFRGLRTRRHLKAMHLAATLI
+sp|Q9VC45|ASP_DROME                 -HAQKSMRFMRA---KYRGTQAAVSCLQMHWRNHLLRK------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      -RACKERNAQVH---NYRIVRSATLRLQAAFRGMKTRRLLRTMNESAELI
+XP_005161794.1                      -RANRIMRQEMA---ALQEKKSAALILQAAYRGKKTRQALKQMHQAATII
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                QRRFRTLMMRRRFLSLKKTAILIQRKYRAHLCTKHHLQ-FLQVQNAVIKI
+sp|Q8CJ27|ASPM_MOUSE                QRRFRTFAMRRKFLSLRKTAIWIQRQYRARLYAKYSRQ-QLLLEKAVIKI
+sp|Q9VC45|ASP_DROME                 -------RERNSFLQLRQAAITLQRRYRARLNMIKQ--------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      QRRFRTFLQRKRFISLRTAAIVIQRKYRATKLAKIQRQKYISLFNAAVII
+XP_005161794.1                      QSHVRMRILNLRFQRLRWAVCTLQRHFRANKIMRQEMAALQEKKSAALIL
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                QSSYRRWMIRKRMREMHRAATFIQSTFRMHRLHMRYQALKQASVVIQQQY
+sp|Q8CJ27|ASPM_MOUSE                QSSYRGWVVRKRVQKMHRAATVIQATFRMHGAYMRYQHLKRASVVIQVHT
+sp|Q9VC45|ASP_DROME                 --------------------------------LKSYAQLKQAAITIQTRY
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      QSAYRGFVARQKMRQMHQAATVIQATLRMRKLYISYQALRLASVSIQQHY
+XP_005161794.1                      QAAYRGMKTRHTLKQMHQAATIIQSHVRMRILNLRFQRLRWAVCTVQQRF
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    -QRIEDDRPEEAREIRARVNQIQKAWMALNNLIKVQDGKLEEAGDLQRFL
+sp|Q8IZT6|ASPM_HUMAN                QANRAAKLQRQHYLRQRHSAVILQAAFRGMKTRRHLKSMHSSATLIQSRF
+sp|Q8CJ27|ASPM_MOUSE                AAEL---------QRQKHAAVILQAAVRGMKTRSHLKTMHSSATLIQSQF
+sp|Q9VC45|ASP_DROME                 RAKKAMQKQ-----------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      RAYREGKSVREMYLKTYNSVLVLQAAYRGMKTRCFLKKRHEAALIIQRNY
+XP_005161794.1                      RANRIMRQEMAALQEKKSAALILQAAYRGMKTRQTLKQMHQAATIVQATY
+                                                                                      
+
+RvY_111121_11827                    ---------------------------SDASSESDVSLATAS--------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               ---------------------------SDASNDSDNSAT-AS--------
+Unigene4338_Richtersius_51792       ---------------------------SDVSTGSVASLDSVS--------
+gb|GFGY01000302.1|_71810            ---------------------------SDVSTGSVASLDSAS--------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------QAARTAATANNAG-AS--------
+CL2581.Contig1_Echiniscoides_21768  --------------------------L-----------------------
+Unigene11975_Echiniscoides_92010    RDLDAFQAWLSRTQRTVASQDVPQSMAEAEKLLATHRQI-KEEMDRFEPE
+sp|Q8IZT6|ASPM_HUMAN                RSLLVRRRFISLKKATIFVQRKYRATICAKHKLYQFLHL-RK--------
+sp|Q8CJ27|ASPM_MOUSE                RAFIVRRRFIALRKAAIFVQRKFRATLYAKHKLHQFLQL-RK--------
+sp|Q9VC45|ASP_DROME                 -----VVLYQKQREAIIKVQRRYRGNLEMRKQIEVYQKQ-RQ--------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      RMYRQYRHYRRVRQATLLIQRRFRANSLRNIAVQHYTSF-KK--------
+XP_005161794.1                      RAYSGRKRYLEMKCAAIDIQQRYRAVNAAKQQRKSYLKV-RQ--------
+                                                                                      
+
+RvY_111121_11827                    ---------------------------TAFV-PEIGDDGYSTQRSRRAGD
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               ---------------------------TVFV-PEIGDDGYSTQRSKATSR
+Unigene4338_Richtersius_51792       ---------------------------TGAL-PEVGDDGYSTQRSKNTGR
+gb|GFGY01000302.1|_71810            ---------------------------TGML-PEIGDDGYSTQRSKNTVG
+TRINITY_DN52993_c0_g2_i6_21431      -------------------------PSTAATSSTAKNSGYTSW-------
+CL2581.Contig1_Echiniscoides_21768  ---------------------------------INSGNGGSSS-------
+Unigene11975_Echiniscoides_92010    YRKLMEQGEEVTRGQTDPQYFLLKER------------------------
+sp|Q8IZT6|ASPM_HUMAN                -------------------------AAITIQSSYRRLMVKKKL-------
+sp|Q8CJ27|ASPM_MOUSE                -------------------------AAITIQSSYRRLMVQKKL-------
+sp|Q9VC45|ASP_DROME                 -------------------------AVIRLQKWWRSIRDMRLC-------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      -------------------------AAICIQRAFRDSCLKKQC-------
+XP_005161794.1                      -------------------------GALVLQACYRGRKVRRNL-------
+                                                                                      
+
+RvY_111121_11827                    SRQGTSAANANWGFESPKLG----------DGI-ADEMVLEYQNGMEEVS
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               RGAHNGWPGFHLDSTSPKPGMDGFVEDDGVVGD-ANHSADGLFTGIDAAG
+Unigene4338_Richtersius_51792       RPPSEWGGNFDGDTASREKITSP-------PKGLSEELLDLPVGSDTDLD
+gb|GFGY01000302.1|_71810            KRGKTDWSLSPDKMRD---LPAF-------AGLGDEALDLQSLAGEVTSA
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    INEVQSLRNEVQHLRHQLDMRPELGEIVSERIRRLIEVNLSLRECLAQCQ
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               MDEVQVLREQNSILKHQLEMRPAVDEIVSEKIKRHLEVNLALRSSLARCQ
+Unigene4338_Richtersius_51792       AEKLEALRIENQTLKHELEVRPPLDECISEKIRRQLEENLALRRCVAQCL
+gb|GFGY01000302.1|_71810            EEELQNTKIENQTLKHQLQTRPALDEVISEKLRRLLEENLALRQCAKQAL
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    RALTGEVDPDTLTKLLYTLQGLLENSFSGEKEPASNMPNVMVEDVSGLDG
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               SALSGPLDEAKMDELRASLAILTEQTT---DDLATSIPNVTVDDVGTLDP
+Unigene4338_Richtersius_51792       EGLEGKLPPDHRTDLVTTLRHLTELKP---DDLISKVPNVVVEDVSGLDG
+gb|GFGY01000302.1|_71810            DAIEGRLNQEERLDLILSLQNLVELNM---NGSASNLANVLVEDVSSLDA
+TRINITY_DN52993_c0_g2_i6_21431      -------------------------------------------------F
+CL2581.Contig1_Echiniscoides_21768  -------------------------------------------------S
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                -------------------------------------------------Q
+sp|Q8CJ27|ASPM_MOUSE                -------------------------------------------------Q
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      -------------------------------------------------Q
+XP_005161794.1                      -------------------------------------------------Q
+                                                                                      
+
+RvY_111121_11827                    ASLNQLFLSLREALSIQASETEQFMDKNVMLSQKYTALMTENHH------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               TSLNQLFLSLREALAIQATETRQLMTGRNVLSERYTQLMKENDC------
+Unigene4338_Richtersius_51792       VSLNQLFLSLREALAIQATETSRLISGRSHLSNEHVALIKENQL------
+gb|GFGY01000302.1|_71810            SSLNQLFFSLREALTIQATETSQLVHGRNQLSQQYSVLIKENQC------
+TRINITY_DN52993_c0_g2_i6_21431      SLFSSSATRANRPESKQVHDAVATERENEAKTLRVDALLEETAN------
+CL2581.Contig1_Echiniscoides_21768  GWLSTLFNKKTPTNNVRQNLNFDGCGYIEQYEDATERILEENHI------
+Unigene11975_Echiniscoides_92010    ----------------------------LYGLRDGWNELHSMWDNRQQLL
+sp|Q8IZT6|ASPM_HUMAN                EMQRAAVLIQATFRMYRTYITFQTWKHASILIQQHYRTYRAAKL------
+sp|Q8CJ27|ASPM_MOUSE                EMHRAAALIQATFRMHRTYVAFHIWKCASIRIQQCYRTYRTIKL------
+sp|Q9VC45|ASP_DROME                 ------------------KAGYRRIRLSSLSIQRKWRATVQARR------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      EMHRAATVIQKNYRAFREHQRYLSLKAAALVFQRRYRALILSRQ------
+XP_005161794.1                      LQCQAAVLIQSYFRRHKEMVKYQAMKLSAVIIQSHFRSYIQARA------
+                                                                                      
+
+RvY_111121_11827                    ------------------------LKELLKRLSNSDAKNGVQTSQLMAEI
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               ------------------------LKIMLANLSKSS-NLRDGLSRLAEDT
+Unigene4338_Richtersius_51792       ------------------------LKTLVNKVTKAD-NARNGINELVTGT
+gb|GFGY01000302.1|_71810            ------------------------LRTVVNKMAKAE-SARNGITELVTDT
+TRINITY_DN52993_c0_g2_i6_21431      ------------------------LRSTISH-------------------
+CL2581.Contig1_Echiniscoides_21768  ------------------------LRQQIKQLSLIA-SQN-NPNTSTLSS
+Unigene11975_Echiniscoides_92010    TESLAYEIFLRDARQAEVLLKNQESYLSLFEAPRHLEESESLLKKHDTFI
+sp|Q8IZT6|ASPM_HUMAN                ------------------------QRENYIRQWHSA-VVI-QAAYKGMKA
+sp|Q8CJ27|ASPM_MOUSE                ------------------------QKEKLIR-------------------
+sp|Q9VC45|ASP_DROME                 ------------------------QREIFLSTIRKV-RLM-QAFIRATL-
+NP_492467.1                         ----------------------------FVKTNNLS-VSI-EDDANTPEL
+XP_025009015.2                      ------------------------HTREYLYLRGAA-IHL-QAAYRGMRA
+XP_005161794.1                      ------------------------DRKNYQHLRKSA-IVI-QAAFRGHSL
+                                                                                      
+
+RvY_111121_11827                    TQAMSHNG----------VLAQENQ-ELRKRMRKLEKKLTLSHATGLNGI
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               TKTMIANE----------TLLKENK-GLKKKVHQLEKALGQRDGTSAV--
+Unigene4338_Richtersius_51792       THVMVQNE----------GLLKENK-DLRRKVRSLEKALYSERGPPQH--
+gb|GFGY01000302.1|_71810            THVMIQNE----------NLLKENK-DLRRKIRSLEKSLYNERGAPADRP
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  ATPNAQYNTLSTINAPNSQYNTIAS-STTNQSPSKTSGFNSMQST-----
+Unigene11975_Echiniscoides_92010    TTMAVNDDKINQVLNSAERLCEEGNFAADKIHKKAENIAERSANN-----
+sp|Q8IZT6|ASPM_HUMAN                RQLLREKHKASIVIQSTYRMYRQYC-FYQKLQWATKIIQEKYRAN-----
+sp|Q8CJ27|ASPM_MOUSE                ----EEQHSAAVLIQSTYRMYRQRC-FYQQRRWAAKVIQKTYRAN-----
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         RRILRQTR----------ELKRKQQ-EIARKLGNIERNALAVRDGG----
+XP_025009015.2                      RKSIERMHVAARTIQSAYKMYRNRR-AYQKMRTAAIFIQNYYRSY-----
+XP_005161794.1                      RRHLARKQEASVIIQASFRMYQQRS-AFKKQRWAARVLQQRFRAL-----
+                                                                                      
+
+RvY_111121_11827                    Y-----GQNGYSGEGEEMPQVTMKSTQQGMIEFQQNSETAKRLADCLVSV
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               N-----ILNDADLEDDVPLIQHLKAGHMGMIEYPQSAT--EHLVRCLTSV
+Unigene4338_Richtersius_51792       ----HMLNGRNNDDDTSSISITKKGDYQGMIEYPLDQT--ETFVHAIAGI
+gb|GFGY01000302.1|_71810            RTTSHNGYPPPVNGDDGGPVAHRKGDFQGILEYPLDQA--DLLVHAIVSV
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --STSPESRKTNSRLEQRQIYALYNQSKAILVLKIAHL--DDFMYKLTHI
+Unigene11975_Echiniscoides_92010    --RER-AKQ-------------------------QLE-------------
+sp|Q8IZT6|ASPM_HUMAN                --KKK-QKVF-QH-NELKKETCVQAGFQDMNIKKQIQE--QHQAAIIIQK
+sp|Q8CJ27|ASPM_MOUSE                --KRR-QDLL-Y--VCKEETPLLQMHFQGLNTAKQGRQ--QHGAAMITQK
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --VKAKNQQK-KYLMIKKSALLIQASYRGMKERQKLKT--MRASAVVIQS
+XP_005161794.1                      --KLR-DEHVCQYQQVRNAAVCLQRYFRGMKGRELAR-------------
+                                                                                      
+
+RvY_111121_11827                    SPQVASTLVLPGLPAYILFMAVRYT-------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               PPELASTLNYPGLPAYLLFMAVRYT-------------------------
+Unigene4338_Richtersius_51792       SPALASSLNLPGLPAYLLFMAARYT-------------------------
+gb|GFGY01000302.1|_71810            TPATATALTIPGLPAYLLFMAVRYT-------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  DMQFA-QNFKLTLPAHLYFLAIRHY-------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                HCKAF-KIRKHYLHLRATVVSIQRRYRKLTAV---------RTQAVICIQ
+sp|Q8CJ27|ASPM_MOUSE                HFRAF-KARRLMEAERG---------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      SYRMY-IQHKYYKQLCWAVRVIQQRFRAKKAKEADMENYAKIRKAIICLQ
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------RLHEHHRLQQFLRDCEEMREFIQEKTIVAEDDSYRS
+sp|Q8IZT6|ASPM_HUMAN                SYYRGFKVRKDIQNMHRAATLIQSFYRMHRAKVDYETKKTAIVVIQNYYR
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------LMRQQRREFEMKRRAAVVIQRRFR
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      SSFRAKKARQ-LHKTNAAVLRIQSFLRMRMERKRFLVKKAAAVTIQSAFR
+XP_005161794.1                      --------------RSKAARTIQSFLRMSVQRQRFMKEKAAAIAIQSAYR
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    A-------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                LYVRVKTERKNFLAVQKSVRTIQAAFRGMKVRQKLKNVSEEKMAAIVNQS
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 ARCAML--------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      C-------------------------------------------------
+XP_005161794.1                      G-------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    ----KTAHQKWTRHQAFESELSANKPRLESLLREGQELINEKPQFRDQVD
+sp|Q8IZT6|ASPM_HUMAN                ALCCYRSKTQYEAVQSEG--------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 -----KARQDYQLIQSSV--------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      ----KRARARYKSIRNSI--------------------------------
+XP_005161794.1                      ----HFARAQYTRMQAGT--------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    SPLQSLSQDWEQLERIVREKGDKLFDANRQAIYEQTCDDIDNWVTEIETE
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       -----------------------------------GYKATLRWVQSQIPE
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    IQTRETGEDLTSVNILIQKQQATESQMQTRSEHLEELRTQAEKLREVVPE
+sp|Q8IZT6|ASPM_HUMAN                --------------VMIQEWYKASGLACSQEAEYHSQSRAAVTIQKAFCR
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------ILVQRKFRANRSM-----------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------VAIQRWYRACHRARLQKAEYSVQRRAIIIIQSAYRG
+XP_005161794.1                      --------------VLIQKWYRSRKLVQEDRKRFVAVRQATLTLQSALRG
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                MVTRKLETQKCAALRIQFFLQMAVYRRRFVQQKRAAITLQHYFRTWQTRK
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 ---------------------------------------------KQARQ
+NP_492467.1                         ----------------------------------EDSSDSRSDAGHDVAI
+XP_025009015.2                      MKARKLARQIRATRKIHSFLRMAVQRRKFIQLKRAAVTLQAYYLMHKAKS
+XP_005161794.1                      MLVRRLAKRRRAAIKIQSVMRMHIQRKRYVTLRASALKFQAHYRMLVAQR
+                                                                                      
+
+RvY_111121_11827                    -----DHVNN--EKTVKELLST----------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       ENVSNFTADWNDGRCVGSLVRS----------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               -----DQINN--EKAVKELLSG----------------------------
+Unigene4338_Richtersius_51792       -----DHMDN--ERAVKQLLSA----------------------------
+gb|GFGY01000302.1|_71810            -----DHVDN--ERAVKQLLSA----------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  -----DQQEENGGEGFKEMHNN----------------------------
+Unigene11975_Echiniscoides_92010    KAEQIITKRISVEERFKKLQEPLQK-------------------------
+sp|Q8IZT6|ASPM_HUMAN                QFLLYRKAAVVLQNHYRAFLSAKHQRQVYLQIRSSVIIIQARSKGFIQKR
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 EFVQLRTIAVHLQQKFRGKRLMIEQRNCFQLLRCS---------------
+NP_492467.1                         LHGDDSQLFENSMQLDQKS-------------------------------
+XP_025009015.2                      QYASYKKAAVVLQRWYRSHLIVKHQRMTYLQTQKKVIIVQAVVRRFIVKK
+XP_005161794.1                      KYRRLQAATVTLQKHYRSHRATLEQRCSYLKTLQNIKKLQARVRGHIAYK
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                KFQEIKNSTIKIQAM-----------------------------------
+sp|Q8CJ27|ASPM_MOUSE                -----------FQAG-----------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      RFQKIKESAIKIQALFRGFTQRRRYLQCKFAALVIQQRYSAHQMRSIERQ
+XP_005161794.1                      RFQRLRTCAITIQANYRGMIERRRFHQLKECALVIQKHYRAFILCQKERS
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                ---------------WRRYRAKKYLCKVKAACKIQAWYRCWRAHKEYLAI
+sp|Q8CJ27|ASPM_MOUSE                ---------------CRKYKAKKYLSKVEAACRIQAWYRRWRAHKKYLTL
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      RFNQKKRAAIKIQASYRGFKARQLANKVRAARVIQAWFRGHKARKDYASM
+XP_005161794.1                      KFLQLRQSAVVIQRAYRAYQKRQNAMKAQAALKIQAWFRGRLARRNYILK
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                LKAVKIIQGCFYTKLERTRFLNVRASAIIIQRKWRAILPAKIAHEHFLMI
+sp|Q8CJ27|ASPM_MOUSE                LKAVNIIEGYLSAQLARRRFLKMRAAAIIIQRKWRATLSVRGARE---NL
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      VEAACIIKNCFRTKRQRTWFLKMKFCTLTIQRRWRATLAARMVRLQFLAT
+XP_005161794.1                      QAASATIRRCIQARRQRSKFLAVQHSVRVIQQRWRETLSSRKQHAEFLKL
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    ---------------------------------------RKAEIE-----
+sp|Q8IZT6|ASPM_HUMAN                K---------------------RHRAACLIQAHYRGYKGRQVFLRQKSAA
+sp|Q8CJ27|ASPM_MOUSE                K---------------------RHRAACVIQAHFRGYQARQSFLQQRSAV
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      K-----------------------NAVVKIQLAYRQYRARR---------
+XP_005161794.1                      IKSVIYIQALWRGRRLRDSIQKQATAAVKIQSAFRGSIQRRRYHQQRNAA
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                LIIQKYIRAREAGKHERIKYIEFKKSTVILQALVRGWLVRKRFLEQRAKI
+sp|Q8CJ27|ASPM_MOUSE                LIIQRHVRAMVAAKQERIKYIKLKKSTVVVQALVRGWLVRKRVSEQKAKT
+sp|Q9VC45|ASP_DROME                 --------------------------MPGFQARARGFMARKRFQALMTPE
+NP_492467.1                         ----------QLQNDETQILENKKKAAVVIQKMIRGFIARRKFQ------
+XP_025009015.2                      --------------------------------------LLRKFSEQKQKK
+XP_005161794.1                      ITLQRHFRVLRLARVKEENLRRRHNAAIYIQALWRGWLARQQVKEMAFAA
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                RLLHFTAAAYYHLNAVRIQRAYKLYLAVKNANKQVNSVICIQ--------
+sp|Q8CJ27|ASPM_MOUSE                RLFHFTAAAYCHMCALKIQRAYRLHVTLRNAKKHMDSVIFIQ--------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      RLLYFIAAAYHHVSAIKIQRAYRMHLAYKLAENHISSILVIQEMCSSSSI
+XP_005161794.1                      RRLRFTAAVYHHLSAIKIQRAVRAHWALKSAKKKISSVLYIQ--------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                -------------------------RWFRARLQEKRFIQKYHSIKKIEHE
+sp|Q8CJ27|ASPM_MOUSE                -------------------------RWFRKRLQRKRFIEQYHKILSTRRE
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      SLLALRWTLQDDSVSLLLGGAELDTKWFRAKMQQKRFQRDYQRIIQCQRM
+XP_005161794.1                      -------------------------QCFRAKLQRKKYLKDREDIIKTQRA
+                                                                                      
+
+RvY_111121_11827                    --------------------TKINIQNVLKKKSSG----IEHFTLWLLNG
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       -----------------------SI-R----TIKS----KTAVGLW----
+TRINITY_DN46711_c0_g1_i2_1556       --------------------LGGNVPG----FTTQ----TYDRASWEDNL
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------AKNAIQNVLKNKKAG----MEHFAMWLLNG
+Unigene4338_Richtersius_51792       --------------------TKTELEGILKRKKES----IEHFAMWLLNG
+gb|GFGY01000302.1|_71810            --------------------TKTEIETVLKKKKDH----VEYFALWLLNG
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------FTRNVNSLMTAKTSDTMALVESIFYWLLNF
+Unigene11975_Echiniscoides_92010    --------------------KKKRALQ----YVRD----VEDELEWIDER
+sp|Q8IZT6|ASPM_HUMAN                GQECLSQRNRAASVIQKAVRHFLLRKKQEKFTSGI----IKIQALWRGYS
+sp|Q8CJ27|ASPM_MOUSE                AHACWLQQDRAASVIQKAVRRFLLCRRQEKITSCA----TRIQALWRGYS
+sp|Q9VC45|ASP_DROME                 ------------------------MMDLIRQKRAA----KVIQRYWRGYL
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      IRGWLKRRNDAATLIQRNVRRFLACRRKRKIAVGI----IQFQALWRGYS
+XP_005161794.1                      VRSWLHRRNQAASIIQHAVRKLLFRRRKERLQRGI----IRAQALWRGHC
+                                                                                      
+
+RvY_111121_11827                    LRLVDLL-------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       ARGMKGG-------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               LRLVDLM-------------------------------------------
+Unigene4338_Richtersius_51792       LRLVDLL-------------------------------------------
+gb|GFGY01000302.1|_71810            LRLVELM-------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  EELICLL-------------------------------------------
+Unigene11975_Echiniscoides_92010    MQHATSPNVGNSLHEVMRLQRKLNTLKNEVHNHQPRINELNETGQYLLNQ
+sp|Q8IZT6|ASPM_HUMAN                WRKKNDC-------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                WRKKNDH-------------------------------------------
+sp|Q9VC45|ASP_DROME                 IRRRQKH-------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      WRKNNDT-------------------------------------------
+XP_005161794.1                      SRKLHDT-------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    DYPDEDKEFYGDLLQRLNDAWAQLDSSLAERNDRLRTSEAAQQYLYDAGE
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------KQYSGDNKTFQKENSPKQNQ-----------HCLKN
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------RGLGVEP-VLTPKQMADSED-----------EHLGI
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------KQYSGDE-KYQRVNTLKQNQ-----------HALRQ
+Unigene4338_Richtersius_51792       --------------KQYSGDE-KFQKDNSVKQNQ-----------HCLKL
+gb|GFGY01000302.1|_71810            --------------KQYGGEE-KFQKENTAKMNK-----------HCLKV
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------KIYSVE-SIGAT--PTLKSN-----------YCLEY
+Unigene11975_Echiniscoides_92010    SISWMSEQELNMMPQGRARDA-VI--------------------------
+sp|Q8IZT6|ASPM_HUMAN                --------------TKIKAIRLSLQVVNREIREE-----------NKLYK
+sp|Q8CJ27|ASPM_MOUSE                --------------TEIKAIRRSLRAVSTTVEEE-----------NKLYR
+sp|Q9VC45|ASP_DROME                 --------------QGLLDIRKRIAQLRQEAKAV-----------NSVRC
+NP_492467.1                         --------------MEISNIRNRMIQYNHILAQEDEQIGIEEMEDKSVEA
+XP_025009015.2                      --------------AKTKALRLSLEKANRKSREE-----------NKLCN
+XP_005161794.1                      --------------NKVISMRQRLREVNQRVKEE-----------DKLCN
+                                                                                      
+
+RvY_111121_11827                    FDLSA---FRTHFDDLCLSIYRSLVTLMQREIKDDAAKA-IIEHESVLGL
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       MAYAA---WFQWVDPRPLKSGAQKISL-----------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               FDLSA---FRQQYDDLCVSIYRSLVTFMQRELKDDAAKA-IIEHESVLGL
+Unigene4338_Richtersius_51792       FDLSV---FRQHFDDLCVSIYRSLVVLMQREIKDDAAKA-IIEHECVLGL
+gb|GFGY01000302.1|_71810            FDLSV---FREHFHDLCLSIYRSLVQLMERDLKDDAAKA-IIEYESVVGL
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  FNLNM---QIEQYTEACLSIYYKLVLNIQTLLVECVVSA-IIDYKDDESC
+Unigene11975_Echiniscoides_92010    ADTLV---SKHESTEYAVDEYDRTIRELSERARELVDNN-NPLAHEIQLR
+sp|Q8IZT6|ASPM_HUMAN                RTALALHYLLTYKHLSAILEALKHLEVVT-RLSPLCCEN-MAQSGAISKI
+sp|Q8CJ27|ASPM_MOUSE                RTERALHHLLTYKHLSAILDALKHLEVVT-RLSPLCCEN-MAESGAVSTI
+sp|Q9VC45|ASP_DROME                 KVQEAVRFLRGRFIASDALAVLSRLDRLS-RTVPHLLMW-CSEFMSTF-C
+NP_492467.1                         KLKKCALHGLTNDNLHVVHVAATVIDRVT-DLVPSLLEKLVVELNGIKSI
+XP_025009015.2                      RTSIAIEYLLKYKHISYILAALKHLEVVT-RLSPLCCEN-MARSRAIFTI
+XP_005161794.1                      KTTTALTYLLGLQNYAFILAALKHLETAT-RLSPECCER-LVESGATHTI
+                                                                                      
+
+RvY_111121_11827                    KEPGTLARRWKTK-------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               KEPGTLPRRWRTK-------------------------------------
+Unigene4338_Richtersius_51792       KPPGTLTRKWKTK-------------------------------------
+gb|GFGY01000302.1|_71810            KPTGTTMKRWKTK-------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  TNAFETTVDRSVKRNSLPKTFENIREKYYTSRRCSLESPTHQQQQQQNNN
+Unigene11975_Echiniscoides_92010    Q-------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                FVL-----------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                FVV-----------------------------------------------
+sp|Q9VC45|ASP_DROME                 YGI-----------------------------------------------
+NP_492467.1                         TDV-----------------------------------------------
+XP_025009015.2                      FVL-----------------------------------------------
+XP_005161794.1                      FTL-----------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    ---SPADCAASVQKKLEYYYRLITQDHALDPVVVRQIFRQLLFCLSANSV
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               ---SPAECFTSTMTKLNQFFRMVTQDHALDPSLVRQIFKQLLYCLSANSV
+Unigene4338_Richtersius_51792       ---NPAECFNTVQRKLEQFFKLVTLEHALDPMLVRQIFRQLLYCLSCHSV
+gb|GFGY01000302.1|_71810            ---TPAECHHAVHRNLGRFFHLVHEEHALDPAMVRQIFRQLLFCLSAHSV
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  NNENYKISHELFYHTLDLIYYLVVEKYKMPATLVQTLFTQLAYFITGKVL
+Unigene11975_Echiniscoides_92010    ----------------------------------------SQVEKNYAGL
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    NFLM--QSAKTCT--------FISGVQIRANIS---VLHEFVRSHSTTLP
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               NFLM--QSQKTCT--------FVVGIQIRANLS---QIHEFVRLHSATFH
+Unigene4338_Richtersius_51792       NFLM--QSQKTCT--------FVIGIQIRANIS---NIQEWVRTHSHTLY
+gb|GFGY01000302.1|_71810            NFLM--QSNKLCT--------FTTGIQIRANIS---AIQEWVRNHSTVLH
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  NAMM--FREHLYT--------MERVYYIQVNVS---NLISWFSSKSSILT
+Unigene11975_Echiniscoides_92010    KDLMNERRSTLEG--------QTALFGLQTDVS---DLEQWIAEKEIVAS
+sp|Q8IZT6|ASPM_HUMAN                --------IRSCNRSIPCMEVIRYAVQVLLNVS---KYE---KTTSAVYD
+sp|Q8CJ27|ASPM_MOUSE                --------IRSCNRSVPCMEVVGYAVQVLLNVA---KYD---KTIAAVYE
+sp|Q9VC45|ASP_DROME                 --------MAQAIRSEVDKQLIERCSRIILNLA---RYN---STTVNTFQ
+NP_492467.1                         --------LIVADRGFSYTSILHPLLNVLEKLFTKIPEE---VTNSHILP
+XP_025009015.2                      --------IRSCNRSVPCMDVIRYSVQVLLNVS---KYE---RTTQAVYE
+XP_005161794.1                      --------IRSCNRSVPSMEIITLSIQVLLNLS---KYH---RTIDAVYD
+                                                                                      
+
+RvY_111121_11827                    PEE----MMQAM--------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               GDD----IMQAL--------------------------------------
+Unigene4338_Richtersius_51792       PDE----VMMGM--------------------------------------
+gb|GFGY01000302.1|_71810            PDE----VMSGM--------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  SGKSQLLPTTLI--------------------------------------
+Unigene11975_Echiniscoides_92010    SQE----VGQDFDQCNNIRERFRRFIEDTLLVGTDRVNEANTHANALIEN
+sp|Q8IZT6|ASPM_HUMAN                VEN----CIDIL--------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                AEN----CVDTL--------------------------------------
+sp|Q9VC45|ASP_DROME                 EGG----LVTIA--------------------------------------
+NP_492467.1                         HLK----I------------------------------------------
+XP_025009015.2                      VDN----SIDTL--------------------------------------
+XP_005161794.1                      VDN----SVETL--------------------------------------
+                                                                                      
+
+RvY_111121_11827                    ------------------------------------------------AA
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               ------------------------------------------------AA
+Unigene4338_Richtersius_51792       ------------------------------------------------AA
+gb|GFGY01000302.1|_71810            ------------------------------------------------GA
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  ------------------------------------------------EP
+Unigene11975_Echiniscoides_92010    RHPDSDIIAQWKDRINESWENLK-------------------------EL
+sp|Q8IZT6|ASPM_HUMAN                ------------------------------------------------LE
+sp|Q8CJ27|ASPM_MOUSE                ------------------------------------------------LE
+sp|Q9VC45|ASP_DROME                 ------------------------------------------------QM
+NP_492467.1                         ----------------------LSPRLMLLMLKHSEVKELFIPIINTLTS
+XP_025009015.2                      ------------------------------------------------LD
+XP_005161794.1                      ------------------------------------------------LD
+                                                                                      
+
+RvY_111121_11827                    ITECAHI-------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               ITECAHI-------------------------------------------
+Unigene4338_Richtersius_51792       ITECAHI-------------------------------------------
+gb|GFGY01000302.1|_71810            ITECAHI-------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  LQQALEL-------------------------------------------
+Unigene11975_Echiniscoides_92010    MDTRRQLLDAAYELFKFFHDCRDLLGRIMEQQNSMSEDLGRDPGTVSALQ
+sp|Q8IZT6|ASPM_HUMAN                LLQIYRE-------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                LLQVYRE-------------------------------------------
+sp|Q9VC45|ASP_DROME                 LL------------------------------------------------
+NP_492467.1                         IARRF---------------------------------------------
+XP_025009015.2                      LLQTYRG-------------------------------------------
+XP_005161794.1                      LLQIYRE-------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    ---------------------------------LQARKQKDEDIEG----
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               ---------------------------------FQARKAKEEDIDG----
+Unigene4338_Richtersius_51792       ---------------------------------LQARKQKDEDIDS----
+gb|GFGY01000302.1|_71810            ---------------------------------LQARKAKDDDIDS----
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  ---------------------------------IIISKT-ENEVKD----
+Unigene11975_Echiniscoides_92010    RRHATFAQDLESLGQQVGTIEDRAGQLLASYAGDRAREIQMREAEVVNAW
+sp|Q8IZT6|ASPM_HUMAN                ---------------------------------KPGNKVADKGGSI----
+sp|Q8CJ27|ASPM_MOUSE                ---------------------------------KPGDRVAEKSASI----
+sp|Q9VC45|ASP_DROME                 -------------------------------------RWCDKDSEI----
+NP_492467.1                         ---------------------------------------PDKKQSS----
+XP_025009015.2                      ---------------------------------KAGDKISEKGGSI----
+XP_005161794.1                      ---------------------------------KAGDKVADKGGSI----
+                                                                                      
+
+RvY_111121_11827                    ----------------------IVNMAKALSNA----QIYKLLQNYTPTE
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       ----------------------SGDGLSRAFCHRPAHFQVTYLEEI----
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               ----------------------IISMSKFLSNA----QIIKLLQNYSPAE
+Unigene4338_Richtersius_51792       ----------------------IISMSKAMSNA----QILKLLQNYVPSE
+gb|GFGY01000302.1|_71810            ----------------------IINMSKVLSNA----QILRLMQNYTPSE
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  ----------------------FLATRKALSPN----QVVKLLNNCPAET
+Unigene11975_Echiniscoides_92010    RQLNGMVQLRSQKLGDTNDLFRFFSMVRELQLWMNETVGQMNNSER----
+sp|Q8IZT6|ASPM_HUMAN                ----------------------FTKTCCLLAILLKTTNRASDVRSR----
+sp|Q8CJ27|ASPM_MOUSE                ----------------------FTRTCCLLAVLLKTEQCAFDAQSR----
+sp|Q9VC45|ASP_DROME                 ----------------------FNTLCTLIWVFAHCPKKRKIIHDYM---
+NP_492467.1                         ----------------------FSSSSY----------------------
+XP_025009015.2                      ----------------------FTKTCCLLAILSKDSKRALEIRSM----
+XP_005161794.1                      ----------------------FTKTCFLLVLLVQDERRAMEIRRL----
+                                                                                      
+
+RvY_111121_11827                    EYDKVDPTFVQKM-------------QARLLDRPDAMAPGLMAPS--SVS
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       ----N--AND---------------------------VRA----------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               AYDAVTPEFVQKI-------------QTRLQDRPEPTAPG----------
+Unigene4338_Richtersius_51792       DFDKVTPDFMKKM-------------QERLKERPEPSAPGLPGHLPSKEG
+gb|GFGY01000302.1|_71810            DFDKVEPEFIKKM-------------QKRLLDRPEPTAAGLPQHT--PGS
+TRINITY_DN52993_c0_g2_i6_21431      ---------------------------------------LRAQLQTAQMY
+CL2581.Contig1_Echiniscoides_21768  FYDRE--LLIDKI-------------TQ-----------FILEQQAQGKY
+Unigene11975_Echiniscoides_92010    ----P--RDV----------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                ----S--KVVDRIYSLYKLTAHKHKMNT-----------ERILYKQKKNS
+sp|Q8CJ27|ASPM_MOUSE                ----S--KVTDRIYRLYKFTVPKHKVNT-----------QGLFDKQKQNS
+sp|Q9VC45|ASP_DROME                 --TNP--EAIYMVRETKKLVARKEKMKQ-----------NARKPPPMTSG
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      ----P--RVVTCIQSLYKLTVRKCRMDA-----------ERTLVKQKTNT
+XP_005161794.1                      ----P--KVMDRIRSIYRLTLRKCKMDA-----------ERNKVKQKMNT
+                                                                                      
+
+RvY_111121_11827                    G-------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       --------------------------------------------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               L-------------------------------------------------
+Unigene4338_Richtersius_51792       T-------------------------------------------------
+gb|GFGY01000302.1|_71810            V-------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      GTL-VSTAETPLPSVRGVDGNNYDIDDNSTLPAGASATSARP-ASNSKSK
+CL2581.Contig1_Echiniscoides_21768  KVD-FRGCPNKGFIY-----------------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                SIS-IPFIPE------------------------------TPVRTRIVSR
+sp|Q8CJ27|ASPM_MOUSE                CVG-FPCIPE------------------------------RTMKTRLVSR
+sp|Q9VC45|ASP_DROME                 RYK-SQKINF------------------------------TPC---SLPS
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      VIGGISFIPI------------------------------TPLRIKTVSR
+XP_005161794.1                      SLNGSFLLQA------------------------------TPRKSKPVAR
+                                                                                      
+
+RvY_111121_11827                    AASSVSMNTDYVYPVVFPYSPSRVE-------------------------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       ---ELRSPTGQVIPVKFRFQPGGASATYTASESGPHELFVWCEGELVEGC
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               QPGSYILSTDYVYPVVFPYTPSNVE-------------------------
+Unigene4338_Richtersius_51792       PTTSFTLSTDYVYPVVFP--------------------------------
+gb|GFGY01000302.1|_71810            HVTTFTLNTDYIYPVVFPYTPSNVE-------------------------
+TRINITY_DN52993_c0_g2_i6_21431      FAAQVYDQYDDDVPVYDDVIAEDVD-------------------------
+CL2581.Contig1_Echiniscoides_21768  -------------NIKELVVGFEMN-------------------------
+Unigene11975_Echiniscoides_92010    --------------------------------------------------
+sp|Q8IZT6|ASPM_HUMAN                LKPDWVLRRDNMEEITNPLQAIQMV-------------------------
+sp|Q8CJ27|ASPM_MOUSE                LKPQWVLRRDNVEEITNSLQAIQLV-------------------------
+sp|Q9VC45|ASP_DROME                 LEPDFGIIRYSPYTFISSVYAFDTI-------------------------
+NP_492467.1                         -SIKQSLKKVKDQECRNKLVRLESI-------------------------
+XP_025009015.2                      IKPDWVLRKDNTQEIVDPLQAIVMV-------------------------
+XP_005161794.1                      FAPDWVLRRDKMKDIVDPLRAIQIL-------------------------
+                                                                                      
+
+RvY_111121_11827                    --------------------------------------------------
+TRINITY_DN46711_c0_g1_i1_9167       ---------------------------LEFRK------------------
+TRINITY_DN46711_c0_g1_i3_1333       ---------------------RLPNVCLEFRKLLR---------------
+TRINITY_DN46711_c0_g1_i2_1556       PRKVQVHSDLSRVTAHINDKVPIGTPVEVLINPND---------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               --------------------------------------------------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            --------------------------------------------------
+TRINITY_DN52993_c0_g2_i6_21431      --------------------------------------------------
+CL2581.Contig1_Echiniscoides_21768  --------------------------------------------------
+Unigene11975_Echiniscoides_92010    ------------------------SGVELLMNNHQGLKSEIDARQAAFDE
+sp|Q8IZT6|ASPM_HUMAN                --------------------------------------------------
+sp|Q8CJ27|ASPM_MOUSE                --------------------------------------------------
+sp|Q9VC45|ASP_DROME                 --------------------------------------------------
+NP_492467.1                         --------------------------------------------------
+XP_025009015.2                      --------------------------------------------------
+XP_005161794.1                      --------------------------------------------------
+                                                                                      
+
+RvY_111121_11827                    -----------------------------LDSIQIPAALGLDFV------
+TRINITY_DN46711_c0_g1_i1_9167       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i3_1333       --------------------------------------------------
+TRINITY_DN46711_c0_g1_i2_1556       ----------------------AGEGKVDCEARS-P--------------
+Unigene8511_Echiniscoides_74852     --------------------------------------------------
+BV898_00214.p01_11821               -----------------------------LDTIQIPKSLHMEFV------
+Unigene4338_Richtersius_51792       --------------------------------------------------
+gb|GFGY01000302.1|_71810            -----------------------------LDSVQIPTELGLDFV------
+TRINITY_DN52993_c0_g2_i6_21431      -----------------------------GDAFVVV------Q--P----
+CL2581.Contig1_Echiniscoides_21768  -----------------------------LKKLQFQ------CDYNRYKL
+Unigene11975_Echiniscoides_92010    CVELGQELLNRKHYASRDIKDKLEDLMQQKKSMM-D--------------
+sp|Q8IZT6|ASPM_HUMAN                -----------------------------MDTLGIP-------Y------
+sp|Q8CJ27|ASPM_MOUSE                -----------------------------MDTLGIS-------Y------
+sp|Q9VC45|ASP_DROME                 -----------------------------LCKLQID------MF------
+NP_492467.1                         -----------------------------CEDML----------------
+XP_025009015.2                      -----------------------------MDTLGIA------CY------
+XP_005161794.1                      -----------------------------ANALAIV-------P------
+                                                                                      
+
+RvY_111121_11827                    -------RKI-----
+TRINITY_DN46711_c0_g1_i1_9167       ---------------
+TRINITY_DN46711_c0_g1_i3_1333       ---------------
+TRINITY_DN46711_c0_g1_i2_1556       --------SGRTQKC
+Unigene8511_Echiniscoides_74852     ---------------
+BV898_00214.p01_11821               -------KKI-----
+Unigene4338_Richtersius_51792       ---------------
+gb|GFGY01000302.1|_71810            -------KKI-----
+TRINITY_DN52993_c0_g2_i6_21431      -GGTVTTTSN-----
+CL2581.Contig1_Echiniscoides_21768  PDSIRQYLNI-----
+Unigene11975_Echiniscoides_92010    --------RWEE---
+sp|Q8IZT6|ASPM_HUMAN                ---------------
+sp|Q8CJ27|ASPM_MOUSE                ---------------
+sp|Q9VC45|ASP_DROME                 ---------------
+NP_492467.1                         ---------------
+XP_025009015.2                      ---------------
+XP_005161794.1                      ---------------
+                                                   
