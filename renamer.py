@@ -13,7 +13,6 @@ def convert_to_fasta(input_folder):
         if format_trail == 'clustal_aln':
             records = SeqIO.parse(filename_path, "clustal")
             count = SeqIO.write(records, converted_fasta_file_name_path, "fasta")
-            print("Converted %i records" % count)
         else:
             print('Already fasta_aln file.')
 
@@ -133,6 +132,11 @@ def parse(input_folder: str, output_folder: str, overwrite: bool) -> None:
         filename_path = os.path.join(input_folder, filename)
         output_filename_path = os.path.join(output_folder, output_filename)
 
+        if format_trail == 'clustal_aln':
+            print("Skipped clustal file for renaming.")
+            continue
+
+
         if not overwrite and os.path.exists(output_filename_path):
             print(f"File {output_filename} already exists, skipping.")
             continue
@@ -171,7 +175,7 @@ def main() -> None:
 
     # make parse and write separate file and import it here
     convert_to_fasta(args.input_folder)
-    # parse(args.input_folder, args.output_folder, args.not_overwrite)
+    parse(args.input_folder, args.output_folder, args.not_overwrite)
 
 
 if __name__ == "__main__":
